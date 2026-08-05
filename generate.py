@@ -216,7 +216,7 @@ html_code = """<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "h
                                 <tr>
                                     <td style="padding-bottom: 16px;">
                                         <p style="margin: 0; font-size: 16px; line-height: 25px; font-weight: 700; color: #18181b; font-family: 'Segoe UI', Arial, Helvetica, sans-serif;">
-                                            Hi [First Name],
+                                            Hi there,
                                         </p>
                                     </td>
                                 </tr>
