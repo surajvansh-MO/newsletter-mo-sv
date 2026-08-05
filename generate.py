@@ -66,7 +66,11 @@ html_code = """<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "h
                 display: block !important;
                 width: 100% !important;
                 box-sizing: border-box !important;
-            }
+}
+    .mobile-card-gap {
+        padding-bottom: 16px !important;
+        padding-right: 0 !important;
+    }
             .mobile-stat-box {
                 margin-bottom: 10px !important;
                 margin-right: 0 !important;
@@ -251,7 +255,7 @@ html_code = """<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "h
                                         <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
                                             <tr>
                                                 <!-- LEFT COLUMN: TITLE & SUBTITLE -->
-                                                <td valign="middle" class="mobile-stack" style="padding-right: 20px;">
+                                                <td valign="middle" class="mobile-stack mobile-card-gap" style="padding-right: 20px;">
                                                     <h2 style="margin: 0 0 6px 0; font-size: 22px; line-height: 28px; font-weight: 700; color: #18181b; font-family: 'Sora', 'Segoe UI', Arial, sans-serif; letter-spacing: -0.01em;">
                                                         Beyond Consent:
                                                     </h2>
