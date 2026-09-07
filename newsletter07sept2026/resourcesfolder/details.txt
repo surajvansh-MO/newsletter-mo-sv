@@ -1,0 +1,3291 @@
+this folder consist of all the details related to the newsletter all images bg and all things . 
+
+
+
+/* LIVE WEBINAR */
+
+width: 610.81px;
+height: 17px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 11.2333px;
+line-height: 150%;
+/* identical to box height, or 17px */
+display: flex;
+align-items: center;
+letter-spacing: 0.25em;
+
+color: #EB5424;
+
+border: 1px solid #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+z-index: 4;
+
+
+
+/* One Breach Away: */
+
+width: 610.81px;
+height: 29px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 130%;
+/* identical to box height, or 29px */
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+
+
+/* Why Managed Devices Are the New Perimeter for AI, Finance and Healthcare Data */
+
+width: 376px;
+height: 48px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+
+color: #F5F5F5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+
+/* Frame 1547754280 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 12px;
+
+width: 367px;
+height: 34px;
+
+background: rgba(255, 255, 255, 0.2);
+backdrop-filter: blur(6.66964px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618872979 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 144px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icons  */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.34%;
+top: 4.17%;
+bottom: 4.17%;
+
+background: rgba(255, 255, 255, 0.9);
+
+
+/* September 22, 2026 */
+
+width: 122px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 0.015em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 1112 */
+
+width: 18px;
+height: 0px;
+
+transform: rotate(90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618872980 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 175px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* icons  */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.34%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: rgba(255, 255, 255, 0.9);
+
+
+/* 10:00 AM – 11:30 AM (GST) */
+
+width: 153px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 0.015em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+
+/* September 22, 2026 */
+
+width: 122px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 0.015em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+
+/* Reserve Now */
+
+width: 78px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* CTA/Reserve Your Spot */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 12px;
+gap: 5.85px;
+
+width: 102px;
+height: 30px;
+
+background: linear-gradient(135deg, #FF7A42 14.29%, #EE5A24 53.57%, #D44E1C 85.71%);
+box-shadow: inset 0px 0.585069px 0px rgba(255, 255, 255, 0.35);
+border-radius: 584.484px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Reserve Now */
+
+width: 78px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* iPad Mini (landscape) */
+
+position: absolute;
+width: 271.36px;
+height: 394px;
+left: 439px;
+top: 88px;
+
+filter: drop-shadow(0px -4px 32px rgba(187, 187, 187, 0.4));
+transform: rotate(90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+z-index: 6;
+
+
+/* Shadow */
+
+position: absolute;
+left: 0%;
+right: -44.81%;
+top: 0%;
+bottom: 31.13%;
+
+background: #000000;
+box-shadow: 0px 0px 26.0927px rgba(0, 0, 0, 0.8);
+border-radius: 37px;
+
+
+/* iPad Mini 1 */
+
+position: absolute;
+width: 271.36px;
+height: 394px;
+left: 0px;
+top: 0px;
+
+background: url(iPad Mini Mockup.png);
+border-radius: 10px;
+transform: rotate(90deg);
+
+
+/* Frame 1261162669 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 12px;
+gap: 6.38px;
+
+position: absolute;
+left: 4.42%;
+right: -36.35%;
+top: 3.05%;
+bottom: 14.47%;
+
+background: #FFFFFF;
+border-radius: 19px;
+
+
+/* Managed Devices */
+
+width: 99px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.213347px;
+
+/* Primary Text */
+color: #232329;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147225434 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+isolation: isolate;
+
+width: 200px;
+height: 189.2px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147225430 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 4.25548px;
+gap: 8.51px;
+
+width: 200px;
+height: 38.3px;
+
+background: #EFF2F7;
+border-radius: 4.25548px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 2147225435 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 9px;
+
+margin: 0 auto;
+width: 109.79px;
+height: 29.79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1562100924 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 4.25548px;
+gap: 10.64px;
+
+width: 29.79px;
+height: 29.79px;
+
+background: #FFFFFF;
+border-radius: 4.25548px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 21.28px;
+height: 12.23px;
+
+background: #3DDC84;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147225431 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 1.06px;
+
+width: 71px;
+height: 28.06px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ID-CF-52345 */
+
+width: 71px;
+height: 15px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 11.7026px;
+line-height: 15px;
+text-align: center;
+letter-spacing: -0.220703px;
+
+color: #383737;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Access 12 Apps */
+
+width: 66px;
+height: 12px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 9.57483px;
+line-height: 12px;
+text-align: center;
+letter-spacing: -0.220703px;
+
+color: #7F7F81;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* status Old */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 2px 6px;
+gap: 8px;
+
+margin: 0 auto;
+width: 56px;
+height: 14px;
+
+background: #F0FFF4;
+border: 0.6px solid #9AE6B4;
+border-radius: 21px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Background */
+
+display: none;
+width: 8px;
+height: 8px;
+
+background: #38A169;
+border-radius: 2.68435e+07px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Authorized */
+
+width: 44px;
+height: 10px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+display: flex;
+align-items: center;
+letter-spacing: 0.3px;
+
+color: #094A25;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147225431 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 4.25548px;
+gap: 8.51px;
+
+width: 200px;
+height: 38.3px;
+
+background: #EFF2F7;
+border-radius: 4.25548px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Frame 2147225437 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 9px;
+
+margin: 0 auto;
+width: 110.79px;
+height: 29.79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1562100924 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 4.25548px;
+gap: 10.64px;
+
+width: 29.79px;
+height: 29.79px;
+
+background: #FFFFFF;
+border-radius: 4.25548px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 25849 */
+
+width: 26.51px;
+height: 19.22px;
+
+background: url(bg_removal [Background removed].png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147225431 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 1.06px;
+
+width: 72px;
+height: 28.06px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ID-DA-35426 */
+
+width: 72px;
+height: 15px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 11.7026px;
+line-height: 15px;
+text-align: center;
+letter-spacing: -0.220703px;
+
+color: #383737;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* macOS */
+
+width: 32px;
+height: 12px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 9.57483px;
+line-height: 12px;
+text-align: center;
+letter-spacing: -0.220703px;
+
+color: #7F7F81;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* status Old */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 2px 6px;
+gap: 8px;
+
+margin: 0 auto;
+width: 56px;
+height: 14px;
+
+background: #F0FFF4;
+border: 0.6px solid #9AE6B4;
+border-radius: 21px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Background */
+
+display: none;
+width: 8px;
+height: 8px;
+
+background: #38A169;
+border-radius: 2.68435e+07px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Authorized */
+
+width: 44px;
+height: 10px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+display: flex;
+align-items: center;
+letter-spacing: 0.3px;
+
+color: #094A25;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147225434 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 4.25548px;
+gap: 8.51px;
+
+width: 200px;
+height: 38.3px;
+
+background: #EFF2F7;
+border-radius: 4.25548px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Frame 2147225437 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 9px;
+
+margin: 0 auto;
+width: 110.79px;
+height: 29.79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1562100924 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 4.25548px;
+gap: 10.64px;
+
+width: 29.79px;
+height: 29.79px;
+
+background: #FFFFFF;
+border-radius: 4.25548px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 25849 */
+
+width: 26.51px;
+height: 19.22px;
+
+background: url(bg_removal [Background removed].png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147225431 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 1.06px;
+
+width: 72px;
+height: 28.06px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ID-DA-35426 */
+
+width: 72px;
+height: 15px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 11.7026px;
+line-height: 15px;
+text-align: center;
+letter-spacing: -0.220703px;
+
+color: #383737;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Access 8 Apps */
+
+width: 64px;
+height: 12px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 9.57483px;
+line-height: 12px;
+text-align: center;
+letter-spacing: -0.220703px;
+
+color: #7F7F81;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* status Old */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 2px 6px;
+gap: 8px;
+
+margin: 0 auto;
+width: 56px;
+height: 14px;
+
+background: #F0FFF4;
+border: 0.6px solid #9AE6B4;
+border-radius: 21px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Background */
+
+display: none;
+width: 8px;
+height: 8px;
+
+background: #38A169;
+border-radius: 2.68435e+07px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Authorized */
+
+width: 44px;
+height: 10px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+display: flex;
+align-items: center;
+letter-spacing: 0.3px;
+
+color: #094A25;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147225433 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 4.25548px;
+gap: 8.51px;
+
+width: 200px;
+height: 38.3px;
+
+background: #EFF2F7;
+border-radius: 4.25548px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Frame 2147225438 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 9px;
+
+margin: 0 auto;
+width: 109.79px;
+height: 29.79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1562100924 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 4.25548px;
+gap: 10.64px;
+
+width: 29.79px;
+height: 29.79px;
+
+background: #FFFFFF;
+border-radius: 4.25548px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Apple logo */
+
+width: 19.15px;
+height: 19.15px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 9.36%;
+right: 9.2%;
+top: -0.01%;
+bottom: 0%;
+
+
+
+/* Clip path group */
+
+position: absolute;
+left: 9.36%;
+right: 9.2%;
+top: -0.01%;
+bottom: 0%;
+
+
+
+/* C */
+
+position: absolute;
+left: 9.36%;
+right: 9.2%;
+top: -0.01%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.36%;
+right: 9.2%;
+top: -0.01%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 9.36%;
+right: 9.21%;
+top: 24.11%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.36%;
+right: 9.21%;
+top: 24.11%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.83%;
+right: 29.9%;
+top: 0%;
+bottom: 76.91%;
+
+background: #000000;
+
+
+/* Clip path group */
+
+position: absolute;
+left: 279.92%;
+right: -398.12%;
+top: -58.66%;
+bottom: -109.3%;
+
+
+
+/* C */
+
+position: absolute;
+left: 279.92%;
+right: -398.12%;
+top: -58.66%;
+bottom: -109.3%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 279.92%;
+right: -398.12%;
+top: -58.66%;
+bottom: -109.3%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 279.92%;
+right: -398.09%;
+top: 5.94%;
+bottom: -109.28%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 279.92%;
+right: -398.09%;
+top: 5.94%;
+bottom: -109.28%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 388.38%;
+right: -342.67%;
+top: -58.66%;
+bottom: 96.8%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 544.84%;
+right: -569.88%;
+top: 14.62%;
+bottom: -64.07%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 684.12%;
+right: -963.19%;
+top: 6.64%;
+bottom: -107.94%;
+
+background: #000000;
+
+
+/* Frame 2147225431 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 1.06px;
+
+width: 71px;
+height: 28.06px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ID-VR-34523 */
+
+width: 71px;
+height: 15px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 11.7026px;
+line-height: 15px;
+text-align: center;
+letter-spacing: -0.220703px;
+
+color: #383737;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* iOS */
+
+width: 15px;
+height: 12px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 9.57483px;
+line-height: 12px;
+text-align: center;
+letter-spacing: -0.220703px;
+
+color: #7F7F81;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* status Old */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 2px 6px;
+gap: 8px;
+
+margin: 0 auto;
+width: 56px;
+height: 14px;
+
+background: #F0FFF4;
+border: 0.6px solid #9AE6B4;
+border-radius: 21px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Background */
+
+display: none;
+width: 8px;
+height: 8px;
+
+background: #38A169;
+border-radius: 2.68435e+07px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Authorized */
+
+width: 44px;
+height: 10px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+display: flex;
+align-items: center;
+letter-spacing: 0.3px;
+
+color: #094A25;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147225432 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 5.12785px;
+gap: 10.26px;
+
+position: absolute;
+width: 241px;
+height: 46.15px;
+left: -35px;
+top: 46.76px;
+
+background: #EFF2F7;
+border: 1px solid #FF0F00;
+border-radius: 5.12785px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* Frame 2147225436 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10.85px;
+
+margin: 0 auto;
+width: 130.74px;
+height: 35.89px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1562100924 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 5.12785px;
+gap: 12.82px;
+
+width: 35.89px;
+height: 35.89px;
+
+background: #FFFFFF;
+border-radius: 5.12785px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Windows_logo_-_2012 logo */
+
+width: 23.08px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.77%;
+top: 0%;
+bottom: 0.46%;
+
+background: #00ADEF;
+
+
+/* Frame 2147225431 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 1.28px;
+
+width: 84px;
+height: 31.28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ID-ER-34235 */
+
+width: 84px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14.1016px;
+line-height: 18px;
+text-align: center;
+letter-spacing: -0.265948px;
+
+color: #383737;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Access 34 Apps */
+
+width: 69px;
+height: 12px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 9.57483px;
+line-height: 12px;
+text-align: center;
+letter-spacing: -0.220703px;
+
+color: #7F7F81;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* status Old */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 2.41px 7.23px;
+gap: 9.64px;
+
+margin: 0 auto;
+width: 57.46px;
+height: 17.82px;
+
+background: #FFF3F2;
+border: 0.723px solid #EA3E2F;
+border-radius: 25.305px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Background */
+
+display: none;
+width: 9.64px;
+height: 9.64px;
+
+background: #38A169;
+border-radius: 3.23464e+07px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Authorized */
+
+width: 43px;
+height: 13px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 9.64px;
+line-height: 13px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.3615px;
+
+color: #A81609;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Hi, */
+
+width: 22px;
+height: 21px;
+
+font-family: 'Poppins SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 13.6906px;
+line-height: 150%;
+/* identical to box height, or 21px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+/* Primary Text */
+color: #232329;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Your employees access business applications, sensitive data and AI tools from more devices than ever and not all of those devices are secure or company-owned. */
+
+width: 610.81px;
+height: 42px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14.0417px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+/* Secondary Text */
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+
+/* attend out live bg card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 14px;
+gap: 16px;
+
+width: 610px;
+height: 372px;
+
+background: #F6F1E7;
+border-radius: 14.7437px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Attend Our Live Webinar + Demo + Q&A */
+
+width: 253px;
+height: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 115%;
+/* identical to box height, or 14px */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+
+/* Icon/Icon Grey */
+color: #5B5B5B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line below attend our live webinar */
+
+width: 582px;
+height: 0px;
+
+border: 1px solid #DDD7C9;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+
+/* One Breach Away: Why Managed Devices Are the New Perimeter for AI, Finance and Healthcare Data */
+
+width: 582px;
+height: 48px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+/* Primary Text */
+color: #232329;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* See how Unified Endpoint Management (UEM) can help you secure corporate and BYOD devices, control sensitive data movement, and enforce access policies based on device health. */
+
+width: 582px;
+height: 54px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+/* or 18px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #525252;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Session Details Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 16px;
+gap: 12px;
+
+width: 582px;
+height: 184px;
+
+background: #FFFFFF;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Session Details */
+
+width: 133px;
+height: 21px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 16.85px;
+line-height: 21px;
+
+color: #EB5424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Speakers */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+width: 550px;
+height: 57px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Speaker - John Smith */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 550px;
+height: 57px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Speaker */
+
+width: 48px;
+height: 17px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.5px;
+
+color: #969696;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147225419 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 550px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873631 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 271px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 1618873625 */
+
+box-sizing: border-box;
+
+width: 36px;
+height: 36px;
+
+background: #FFFFFF;
+border: 0.93196px solid #EB5424;
+border-radius: 120px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 25848 */
+
+position: absolute;
+left: -5.56%;
+right: -30.56%;
+top: -5.51%;
+bottom: -30.6%;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Frame 1618873627 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 0.82px;
+
+width: 112.75px;
+height: 33.82px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rayees BHAT */
+
+width: 78px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* Primary Text */
+color: #232329;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Senior Business Analyst, miniOrange */
+
+width: 181px;
+height: 15px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 15px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873633 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 271px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 1618873625 */
+
+box-sizing: border-box;
+
+width: 36px;
+height: 36px;
+
+background: #FFFFFF;
+border: 0.93196px solid #EB5424;
+border-radius: 120px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 25847 */
+
+position: absolute;
+left: -108.33%;
+right: -108.33%;
+top: -16.62%;
+bottom: -200.05%;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Frame 1618873627 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 0.82px;
+
+width: 112.75px;
+height: 33.82px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Dhruv Bhavsar */
+
+width: 101px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* Primary Text */
+color: #232329;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Senior Software Engineer, miniOrange */
+
+width: 188px;
+height: 15px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 15px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Divider */
+
+width: 550px;
+height: 1px;
+
+background: #DCDCDC;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Date & Time */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+width: 291px;
+height: 37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Date & Time */
+
+width: 72px;
+height: 17px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.5px;
+
+color: #969696;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* September 22, 2026 • 10:00 AM – 11:30 AM (GST) */
+
+width: 291px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147225406 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 32px;
+gap: 3.51px;
+
+width: 674px;
+height: 401.84px;
+
+background: #F5F6F8;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225314 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 20px;
+gap: 12px;
+
+width: 610px;
+height: 337.84px;
+
+background: #FFFFFF;
+border: 0.8px solid #E2E2E2;
+border-radius: 14.0417px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225405 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10.18px;
+
+width: 570px;
+height: 245.84px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225309 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 7.37px;
+
+width: 570px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225305 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 1.76px;
+
+width: 570px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* What you’ll learn: */
+
+width: 570px;
+height: 21px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 16.85px;
+line-height: 21px;
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+color: #EB5424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225404 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10.53px;
+
+width: 570px;
+height: 214.66px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* List Item */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 12.5269px;
+isolation: isolate;
+
+width: 570px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Expanded identity lifecycle automation with intell */
+
+width: 500.94px;
+height: 36px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+/* or 18px */
+display: flex;
+align-items: center;
+
+/* Secondary Text */
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 3.16px;
+height: 3.16px;
+left: 0.85px;
+top: 5.41px;
+
+background: #FF6200;
+border-radius: 6.30471px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* List Item */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 12.5269px;
+isolation: isolate;
+
+width: 570px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Expanded identity lifecycle automation with intell */
+
+width: 500.94px;
+height: 36px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+/* or 18px */
+display: flex;
+align-items: center;
+
+/* Secondary Text */
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 3.16px;
+height: 3.16px;
+left: 0.85px;
+top: 5.41px;
+
+background: #FF6200;
+border-radius: 6.30471px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* List Item */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 12.5269px;
+isolation: isolate;
+
+width: 570px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Expanded identity lifecycle automation with intell */
+
+width: 557.47px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+/* identical to box height, or 18px */
+display: flex;
+align-items: center;
+
+/* Secondary Text */
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 3.16px;
+height: 3.16px;
+left: 0.85px;
+top: 5.41px;
+
+background: #FF6200;
+border-radius: 6.30471px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* List Item */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 12.5269px;
+isolation: isolate;
+
+width: 570px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Expanded identity lifecycle automation with intell */
+
+width: 557.47px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+/* identical to box height, or 18px */
+display: flex;
+align-items: center;
+
+/* Secondary Text */
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 3.16px;
+height: 3.16px;
+left: 0.85px;
+top: 5.41px;
+
+background: #FF6200;
+border-radius: 6.30471px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* List Item */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 12.5269px;
+isolation: isolate;
+
+width: 570px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Expanded identity lifecycle automation with intell */
+
+width: 557.47px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+/* identical to box height, or 18px */
+display: flex;
+align-items: center;
+
+/* Secondary Text */
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 3.16px;
+height: 3.16px;
+left: 0.85px;
+top: 5.41px;
+
+background: #FF6200;
+border-radius: 6.30471px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* List Item */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 12.5269px;
+isolation: isolate;
+
+width: 570px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Expanded identity lifecycle automation with intell */
+
+width: 557.47px;
+height: 36px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+/* or 18px */
+display: flex;
+align-items: center;
+
+/* Secondary Text */
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 3.16px;
+height: 3.16px;
+left: 0.85px;
+top: 5.41px;
+
+background: #FF6200;
+border-radius: 6.30471px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* We’ll also walk through practical use cases across AI, IT, banking and healthcare, followed by a live solution demo and Q&A. */
+
+width: 570px;
+height: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 20px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+/* Secondary Text */
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+
+/* Frame 2147225415 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 16px 32px;
+gap: 24px;
+
+width: 674px;
+height: 179px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225408 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 31.5938px;
+gap: 3.51px;
+
+width: 610px;
+height: 42px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* We’ll also walk through practical use cases across AI, IT, banking and healthcare, followed by a live solution demo and Q&A. */
+
+width: 546.81px;
+height: 42px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+/* Secondary Text */
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225409 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 38.61px;
+
+width: 610px;
+height: 81px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225204 */
+
+width: 610px;
+height: 81px;
+
+background: #050C16;
+border-radius: 14.0417px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: -70.37%;
+right: -55.26%;
+top: -35.83%;
+bottom: -130.54%;
+
+opacity: 0.8;
+
+
+/* Mask group */
+
+position: absolute;
+left: -70.37%;
+right: -55.26%;
+top: -35.83%;
+bottom: -130.54%;
+
+
+
+/* Group */
+
+position: absolute;
+left: -70.37%;
+right: -55.26%;
+top: -35.83%;
+bottom: -130.54%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: -70.37%;
+right: -55.26%;
+top: -35.83%;
+bottom: -130.54%;
+
+background: linear-gradient(271.3deg, #454444 27.79%, #A2A1A1 43.55%, #454444 59.32%);
+
+
+/* Group 1261165210 */
+
+position: absolute;
+width: 533.79px;
+height: 24px;
+left: calc(50% - 533.79px/2 - 0.11px);
+top: calc(50% - 24px/2 - 0.32px);
+
+
+
+/* Reserve Your Spot */
+
+position: absolute;
+width: 198px;
+left: calc(50% - 198px/2 - 168px);
+top: 36.24%;
+bottom: 41.54%;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 21.0625px;
+line-height: 124%;
+/* or 26px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Frame 2147225390 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 14.3927px;
+gap: 3.51px;
+
+position: absolute;
+width: 101.79px;
+height: 24px;
+left: calc(50% - 101.79px/2 + 215.89px);
+top: calc(50% - 24px/2 - 0.32px);
+
+background: #EB5424;
+border-radius: 4px;
+
+
+/* Register Now */
+
+width: 73px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 10.5312px;
+line-height: 16px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 16px 32px;
+gap: 288px;
+
+width: 674px;
+height: 68px;
+
+background: #16120F;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 143.25px;
+height: 23.59px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* MoLogo */
+
+width: 130.27px;
+height: 23.59px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.82%;
+right: 66.78%;
+top: 0%;
+bottom: 87.06%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.13%;
+top: 17.64%;
+bottom: 0.04%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.92%;
+right: 49.32%;
+top: 2.36%;
+bottom: 10.62%;
+
+background: #F7934D;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.32%;
+right: 55.49%;
+top: 31.76%;
+bottom: 40.02%;
+
+background: #F7934D;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.57%;
+right: 51.45%;
+top: 2.36%;
+bottom: 72.94%;
+
+background: #4D9965;
+
+
+/* Vector */
+
+position: absolute;
+left: 46%;
+right: 49.53%;
+top: 12.94%;
+bottom: 69.42%;
+
+background: #9BCE7A;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 9.43px;
+
+width: 126.86px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* SocialLink */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 36px;
+height: 36px;
+
+border: 0.685711px solid rgba(255, 255, 255, 0.16);
+border-radius: 10.2857px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* App */
+
+width: 18px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.27499px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.27499px solid #FFFFFF;
+
+
+/* SocialLink */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 36px;
+height: 36px;
+
+border: 0.685711px solid rgba(255, 255, 255, 0.16);
+border-radius: 10.2857px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* App */
+
+width: 18px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 8.83%;
+top: 15.08%;
+bottom: 16.67%;
+
+background: #FFFFFF;
+
+
+/* SocialLink */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 36px;
+height: 36px;
+
+border: 0.685711px solid rgba(255, 255, 255, 0.16);
+border-radius: 10.2857px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* App */
+
+width: 18px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.25%;
+right: 29.17%;
+top: 22.92%;
+bottom: 8.33%;
+
+background: #FFFFFF;
