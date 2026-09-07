@@ -1,36 +1,17 @@
 import os
 import urllib.request
 import uuid
-import json
 
-files = [
-    'dhruv-hd.png',
-    'rayees-hd.png',
-    'banner-bg-final.png',
-    'SocialLink-fb.png',
-    'SocialLink-world.png',
-    'attend-live-icon.png',
-    'banner-bg-img.png',
-    'calender-icon.png',
-    'clock-icon.png',
-    'cta-bg.png',
-    'iPad Mini (landscape).png',
-    'mo Logo.png',
-    'socialLink-linkedin.png'
-]
-
+files = ['banner-bg01.png', 'banner-bg02.png', 'banner-bg03.png']
 res_dir = r'c:\Users\Admin\Desktop\newsletter\newsletter07sept2026\resourcesfolder'
-urls = {}
 
 for fname in files:
     fpath = os.path.join(res_dir, fname)
     if not os.path.exists(fpath):
-        print(f'Missing: {fname}')
         continue
     boundary = '----WebKitFormBoundary' + uuid.uuid4().hex
     with open(fpath, 'rb') as f:
         file_bytes = f.read()
-    
     body = []
     body.append(f'--{boundary}'.encode())
     body.append(b'Content-Disposition: form-data; name="reqtype"')
@@ -53,16 +34,6 @@ for fname in files:
             'User-Agent': 'Mozilla/5.0'
         }
     )
-    try:
-        with urllib.request.urlopen(req) as resp:
-            url = resp.read().decode('utf-8').strip()
-            urls[fname] = url
-            print(f'{fname} -> {url}')
-    except Exception as e:
-        print(f'Error uploading {fname}: {e}')
-
-out_json = r'c:\Users\Admin\Desktop\newsletter\newsletter07sept2026\uploaded_urls.json'
-with open(out_json, 'w') as f:
-    json.dump(urls, f, indent=2)
-
-print('--- FINISHED ---')
+    with urllib.request.urlopen(req) as resp:
+        url = resp.read().decode('utf-8').strip()
+        print(f'{fname} -> {url}')
