@@ -28,6 +28,8 @@
         body {
             margin: 0 !important;
             padding: 0 !important;
+            width: 100% !important;
+            height: 100% !important;
             background-color: #f2f2f2;
             -webkit-text-size-adjust: 100%;
             -ms-text-size-adjust: 100%;
@@ -54,11 +56,16 @@
             text-decoration: none;
         }
 
-        /* Mobile Responsiveness Rules */
+        /* Mobile Responsiveness Rules (Apple Mail, iOS, Android, Gmail App, Samsung Mail) */
         @media only screen and (max-width: 650px) {
             .email-container {
                 width: 100% !important;
                 max-width: 100% !important;
+                min-width: 100% !important;
+            }
+
+            .outer-padding {
+                padding: 0 !important;
             }
 
             .fluid-img {
@@ -68,51 +75,74 @@
             }
 
             .mobile-padding {
-                padding-left: 18px !important;
-                padding-right: 18px !important;
+                padding-left: 16px !important;
+                padding-right: 16px !important;
             }
 
             .hero-padding {
-                padding-left: 20px !important;
-                padding-right: 20px !important;
+                padding-left: 16px !important;
+                padding-right: 16px !important;
                 padding-top: 24px !important;
-                padding-bottom: 24px !important;
+                padding-bottom: 0px !important;
+            }
+
+            .hero-logo-td {
+                padding-right: 0px !important;
+                padding-bottom: 16px !important;
             }
 
             .mobile-stack {
                 display: block !important;
                 width: 100% !important;
+                max-width: 100% !important;
                 box-sizing: border-box !important;
+                padding-right: 0 !important;
             }
 
             .mobile-speaker-card {
                 display: block !important;
                 width: 100% !important;
                 box-sizing: border-box !important;
-                padding-bottom: 12px !important;
+                padding-bottom: 14px !important;
                 padding-right: 0 !important;
             }
 
             .mobile-h1 {
-                font-size: 20px !important;
-                line-height: 125% !important;
+                font-size: 22px !important;
+                line-height: 28px !important;
             }
 
             .mobile-h2 {
-                font-size: 14px !important;
-                line-height: 20px !important;
+                font-size: 15px !important;
+                line-height: 22px !important;
+                max-width: 100% !important;
+            }
+
+            .badge-table {
+                width: 100% !important;
+                max-width: 367px !important;
+                height: auto !important;
+            }
+
+            .badge-cell {
+                padding-top: 6px !important;
+                padding-bottom: 6px !important;
             }
 
             .hero-mockup-col {
-                display: block !important;
-                width: 100% !important;
-                padding-top: 20px !important;
-                text-align: center !important;
+                display: none !important;
+                visibility: hidden !important;
+                height: 0px !important;
+                width: 0px !important;
+                overflow: hidden !important;
+                mso-hide: all !important;
             }
 
             .hero-mockup-img {
-                margin: 0 auto !important;
-                max-width: 280px !important;
+                display: none !important;
+                visibility: hidden !important;
+                height: 0px !important;
+                width: 0px !important;
             }
 
             .button-td {
@@ -124,20 +154,35 @@
             }
 
             .cta-card-td {
-                padding: 20px 16px !important;
+                padding: 24px 16px !important;
+                height: auto !important;
+                text-align: center !important;
+            }
+
+            .cta-card-outer {
+                height: auto !important;
             }
 
             .cta-text-cell {
                 display: block !important;
                 width: 100% !important;
                 text-align: center !important;
-                padding-bottom: 14px !important;
+                padding-bottom: 16px !important;
             }
 
             .cta-btn-cell {
                 display: block !important;
                 width: 100% !important;
                 text-align: center !important;
+            }
+
+            .cta-btn-table {
+                margin: 0 auto !important;
+            }
+
+            .footer-td {
+                padding: 18px 16px !important;
+                height: auto !important;
             }
 
             .footer-col-left {
@@ -161,6 +206,24 @@
                 margin: 0 auto !important;
             }
         }
+
+        @media only screen and (max-width: 420px) {
+            .badge-table {
+                width: 100% !important;
+            }
+
+            .badge-stack {
+                display: block !important;
+                width: 100% !important;
+                padding: 6px 10px !important;
+                box-sizing: border-box !important;
+                text-align: left !important;
+            }
+
+            .badge-divider {
+                display: none !important;
+            }
+        }
     </style>
 </head>
 
@@ -170,7 +233,8 @@
     <!-- PREHEADER TEXT -->
     <span
         style="display: none !important; visibility: hidden; mso-hide: all; font-size: 1px; color: #ffffff; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
-        One Breach Away: Why Managed Devices Are the New Perimeter for AI, Finance and Healthcare Data. Join miniOrange Live Webinar on September 22, 2026.
+        One Breach Away: Why Managed Devices Are the New Perimeter for AI, Finance and Healthcare Data. Join miniOrange
+        Live Webinar on September 22, 2026.
     </span>
     <!-- END PREHEADER TEXT -->
 
@@ -178,12 +242,12 @@
     <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" align="center"
         style="background-color: #f2f2f2; table-layout: fixed;">
         <tr>
-            <td align="center" style="padding: 20px 0 30px 0;">
+            <td align="center" class="outer-padding" style="padding: 0;">
 
                 <!-- MAIN 674PX CONTAINER TABLE -->
                 <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" align="center"
                     class="email-container"
-                    style="width: 100%; max-width: 674px; background-color: #ffffff; border-radius: 0px; overflow: hidden; box-shadow: 0 4px 14px rgba(0,0,0,0.1);">
+                    style="width: 100%; max-width: 674px; background-color: #ffffff; border-radius: 0px; overflow: hidden;">
 
                     <!-- HERO BANNER SECTION -->
                     <tr>
@@ -194,7 +258,8 @@
 
                                 <!-- TOP ROW: LOGO ALIGNED RIGHT -->
                                 <tr>
-                                    <td colspan="2" align="right" style="padding-bottom: 20px; padding-right: 31.6px;">
+                                    <td colspan="2" align="right" class="hero-logo-td"
+                                        style="padding-bottom: 20px; padding-right: 31.6px;">
                                         <a href="https://www.miniorange.com/" target="_blank">
                                             <img src="https://files.catbox.moe/64mtn9.png" alt="miniOrange Logo"
                                                 mc:edit="logo" width="135"
@@ -206,8 +271,10 @@
                                 <!-- HERO CONTENT TWO-COLUMN LAYOUT -->
                                 <tr>
                                     <!-- LEFT COLUMN: TITLE, BADGE, TIME & CTA -->
-                                    <td valign="top" class="mobile-stack" style="width: 58%; padding-right: 0px; padding-bottom: 30px;">
-                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <td valign="top" class="mobile-stack"
+                                        style="width: 58%; padding-right: 0px; padding-bottom: 30px;">
+                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0"
+                                            width="100%">
                                             <!-- LIVE WEBINAR TAG -->
                                             <tr>
                                                 <td align="left" style="padding-bottom: 6px;">
@@ -233,7 +300,8 @@
                                                 <td align="left" style="padding-bottom: 18px;">
                                                     <p class="mobile-h2"
                                                         style="margin: 0; font-size: 16px; line-height: 24px; color: #F5F5F5; font-family: 'Poppins', Arial, Helvetica, sans-serif; font-weight: 400; letter-spacing: -0.02em; max-width: 376px;">
-                                                        Why Managed Devices Are the New Perimeter for AI, Finance and Healthcare Data
+                                                        Why Managed Devices Are the New Perimeter for AI, Finance and
+                                                        Healthcare Data
                                                     </p>
                                                 </td>
                                             </tr>
@@ -241,16 +309,21 @@
                                             <!-- DATE & TIME GLASSMORPHIC BADGE (Frame 1547754280) -->
                                             <tr>
                                                 <td align="left" style="padding-bottom: 20px;">
-                                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0"
-                                                        style="width: 367px; height: 34px; background: rgba(255, 255, 255, 0.2); backdrop-filter: blur(6.67px); -webkit-backdrop-filter: blur(6.67px); border: 1px solid rgba(255, 255, 255, 0.25); border-radius: 6px; -webkit-border-radius: 6px; -moz-border-radius: 6px; overflow: hidden; border-collapse: separate; box-sizing: border-box;">
+                                                    <table role="presentation" border="0" cellpadding="0"
+                                                        cellspacing="0" class="badge-table"
+                                                        style="width: 367px; max-width: 100%; height: 34px; background: rgba(255, 255, 255, 0.2); backdrop-filter: blur(6.67px); -webkit-backdrop-filter: blur(6.67px); border: 1px solid rgba(255, 255, 255, 0.25); border-radius: 6px; -webkit-border-radius: 6px; -moz-border-radius: 6px; overflow: hidden; border-collapse: separate; box-sizing: border-box;">
                                                         <tr>
                                                             <!-- LEFT GROUP: Frame 1618872979 (Width: 144px, Gap: 6px) -->
-                                                            <td align="left" valign="middle" style="padding-left: 12px; height: 34px; white-space: nowrap;">
-                                                                <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                                                            <td align="left" valign="middle"
+                                                                class="badge-stack badge-cell"
+                                                                style="padding-left: 12px; height: 34px; white-space: nowrap;">
+                                                                <table role="presentation" border="0" cellpadding="0"
+                                                                    cellspacing="0">
                                                                     <tr>
-                                                                        <td valign="middle" style="padding-right: 6px; line-height: 1;">
-                                                                            <img src="https://files.catbox.moe/6jgvj5.png" alt="Date"
-                                                                                width="16" height="16"
+                                                                        <td valign="middle"
+                                                                            style="padding-right: 6px; line-height: 1;">
+                                                                            <img src="https://files.catbox.moe/6jgvj5.png"
+                                                                                alt="Date" width="16" height="16"
                                                                                 style="display: block; width: 16px; height: 16px; border: 0;" />
                                                                         </td>
                                                                         <td valign="middle"
@@ -262,17 +335,24 @@
                                                             </td>
 
                                                             <!-- MIDDLE GAP + DIVIDER LINE (Line 1112) -->
-                                                            <td align="center" valign="middle" style="padding: 0 12px; width: 1px; height: 34px;">
-                                                                <div style="width: 1px; height: 18px; background: rgba(255, 255, 255, 0.5); font-size: 0; line-height: 0;"></div>
+                                                            <td align="center" valign="middle" class="badge-divider"
+                                                                style="padding: 0 12px; width: 1px; height: 34px;">
+                                                                <div
+                                                                    style="width: 1px; height: 18px; background: rgba(255, 255, 255, 0.5); font-size: 0; line-height: 0;">
+                                                                </div>
                                                             </td>
 
                                                             <!-- RIGHT GROUP: Frame 1618872980 (Width: 175px, Gap: 6px) -->
-                                                            <td align="left" valign="middle" style="padding-right: 12px; height: 34px; white-space: nowrap;">
-                                                                <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                                                            <td align="left" valign="middle"
+                                                                class="badge-stack badge-cell"
+                                                                style="padding-right: 12px; height: 34px; white-space: nowrap;">
+                                                                <table role="presentation" border="0" cellpadding="0"
+                                                                    cellspacing="0">
                                                                     <tr>
-                                                                        <td valign="middle" style="padding-right: 6px; line-height: 1;">
-                                                                            <img src="https://files.catbox.moe/ffj6k2.png" alt="Time"
-                                                                                width="16" height="16"
+                                                                        <td valign="middle"
+                                                                            style="padding-right: 6px; line-height: 1;">
+                                                                            <img src="https://files.catbox.moe/ffj6k2.png"
+                                                                                alt="Time" width="16" height="16"
                                                                                 style="display: block; width: 16px; height: 16px; border: 0;" />
                                                                         </td>
                                                                         <td valign="middle"
@@ -290,13 +370,13 @@
                                             <!-- RESERVE NOW PILL BUTTON -->
                                             <tr>
                                                 <td align="left">
-                                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0"
-                                                        class="button-td">
+                                                    <table role="presentation" border="0" cellpadding="0"
+                                                        cellspacing="0" class="button-td">
                                                         <tr>
                                                             <td align="center"
                                                                 style="background: linear-gradient(135deg, #FF7A42 14.29%, #EE5A24 53.57%, #D44E1C 85.71%); border-radius: 500px; box-shadow: inset 0px 0.6px 0px rgba(255, 255, 255, 0.35);">
-                                                                <a href="https://live.zoho.in/fzqq-oyr-nbz" target="_blank"
-                                                                    class="button-a"
+                                                                <a href="https://live.zoho.in/fzqq-oyr-nbz"
+                                                                    target="_blank" class="button-a"
                                                                     style="font-size: 12px; line-height: 18px; font-family: 'Poppins', Arial, sans-serif; font-weight: 600; color: #FFFFFF; text-decoration: none; padding: 6px 14px; border-radius: 500px; display: inline-block;">
                                                                     Reserve Now
                                                                 </a>
@@ -310,7 +390,8 @@
                                     </td>
 
                                     <!-- RIGHT COLUMN: DEVICE MOCKUP FLUSH TO BOTTOM & RIGHT EDGE -->
-                                    <td valign="bottom" align="right" class="hero-mockup-col" style="width: 42%; padding: 0; text-align: right;">
+                                    <td valign="bottom" align="right" class="hero-mockup-col"
+                                        style="width: 42%; padding: 0; text-align: right;">
                                         <img src="https://files.catbox.moe/hj7b0u.png" alt="Managed Devices Mockup"
                                             width="271" class="fluid-img hero-mockup-img"
                                             style="width: 271px; max-width: 100%; height: auto; display: block; border: 0; margin: 0 0 0 auto;" />
@@ -341,7 +422,9 @@
                                     <td style="padding-bottom: 12px;">
                                         <p
                                             style="margin: 0; font-size: 14px; line-height: 21px; color: #333333; font-family: 'Poppins', Arial, sans-serif; font-weight: 400;">
-                                            Your employees access business applications, sensitive data and AI tools from more devices than ever and not all of those devices are secure or company-owned.
+                                            Your employees access business applications, sensitive data and AI tools
+                                            from more devices than ever and not all of those devices are secure or
+                                            company-owned.
                                         </p>
                                     </td>
                                 </tr>
@@ -350,7 +433,9 @@
                                     <td style="padding-bottom: 12px;">
                                         <p
                                             style="margin: 0; font-size: 14px; line-height: 21px; color: #333333; font-family: 'Poppins', Arial, sans-serif; font-weight: 400;">
-                                            An Outdated OS, An Un-Managed Personal Device, An Unsafe Network, Or An Unauthorized Application Can Be All It Takes To Expose Sensitive Business Data.
+                                            An Outdated OS, An Un-Managed Personal Device, An Unsafe Network, Or An
+                                            Unauthorized Application Can Be All It Takes To Expose Sensitive Business
+                                            Data.
                                         </p>
                                     </td>
                                 </tr>
@@ -386,16 +471,18 @@
                                 style="background-color: #F6F1E7; border-radius: 14.7px; border-collapse: separate;">
                                 <tr>
                                     <td style="padding: 14px;">
-                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
-                                            
+                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0"
+                                            width="100%">
+
                                             <!-- HEADER: ICON + TEXT -->
                                             <tr>
                                                 <td style="padding-bottom: 6px;">
-                                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                                                    <table role="presentation" border="0" cellpadding="0"
+                                                        cellspacing="0">
                                                         <tr>
                                                             <td valign="middle" style="padding-right: 8px;">
-                                                                <img src="https://files.catbox.moe/41s3du.png" alt="Attend Webinar"
-                                                                    width="16" height="16"
+                                                                <img src="https://files.catbox.moe/41s3du.png"
+                                                                    alt="Attend Webinar" width="16" height="16"
                                                                     style="display: block; width: 16px; height: 16px;" />
                                                             </td>
                                                             <td valign="middle"
@@ -417,7 +504,8 @@
                                                 <td style="padding-top: 8px; padding-bottom: 6px;">
                                                     <h2
                                                         style="margin: 0; font-size: 16px; line-height: 24px; font-weight: 600; color: #232329; font-family: 'Poppins', Arial, sans-serif; letter-spacing: 0.02em;">
-                                                        One Breach Away: Why Managed Devices Are the New Perimeter for AI, Finance and Healthcare Data
+                                                        One Breach Away: Why Managed Devices Are the New Perimeter for
+                                                        AI, Finance and Healthcare Data
                                                     </h2>
                                                 </td>
                                             </tr>
@@ -427,7 +515,9 @@
                                                 <td style="padding-bottom: 12px;">
                                                     <p
                                                         style="margin: 0; font-size: 12px; line-height: 18px; color: #525252; font-family: 'Poppins', Arial, sans-serif; font-weight: 400; letter-spacing: 0.02em;">
-                                                        See how Unified Endpoint Management (UEM) can help you secure corporate and BYOD devices, control sensitive data movement, and enforce access policies based on device health.
+                                                        See how Unified Endpoint Management (UEM) can help you secure
+                                                        corporate and BYOD devices, control sensitive data movement, and
+                                                        enforce access policies based on device health.
                                                     </p>
                                                 </td>
                                             </tr>
@@ -435,12 +525,14 @@
                                             <!-- INNER WHITE SESSION DETAILS CARD -->
                                             <tr>
                                                 <td>
-                                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%"
+                                                    <table role="presentation" border="0" cellpadding="0"
+                                                        cellspacing="0" width="100%"
                                                         style="background-color: #FFFFFF; border-radius: 12px; box-shadow: 0 1px 4px rgba(0,0,0,0.03);">
                                                         <tr>
                                                             <td style="padding: 16px;">
-                                                                <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
-                                                                    
+                                                                <table role="presentation" border="0" cellpadding="0"
+                                                                    cellspacing="0" width="100%">
+
                                                                     <!-- TITLE: SESSION DETAILS -->
                                                                     <tr>
                                                                         <td style="padding-bottom: 10px;">
@@ -464,23 +556,36 @@
                                                                     <!-- SPEAKERS ROW -->
                                                                     <tr>
                                                                         <td style="padding-bottom: 12px;">
-                                                                            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                            <table role="presentation" border="0"
+                                                                                cellpadding="0" cellspacing="0"
+                                                                                width="100%">
                                                                                 <tr>
                                                                                     <!-- SPEAKER 1: RAYEES BHAT -->
-                                                                                    <td valign="top" class="mobile-speaker-card" style="width: 50%; padding-right: 10px;">
-                                                                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                                                                                    <td valign="top"
+                                                                                        class="mobile-speaker-card"
+                                                                                        style="width: 50%; padding-right: 10px;">
+                                                                                        <table role="presentation"
+                                                                                            border="0" cellpadding="0"
+                                                                                            cellspacing="0">
                                                                                             <tr>
-                                                                                                <td valign="middle" style="padding-right: 10px;">
-                                                                                                    <img src="https://files.catbox.moe/7b7f0k.png" alt="Rayees Bhat"
-                                                                                                        width="36" height="36"
+                                                                                                <td valign="middle"
+                                                                                                    style="padding-right: 10px;">
+                                                                                                    <img src="https://files.catbox.moe/7b7f0k.png"
+                                                                                                        alt="Rayees Bhat"
+                                                                                                        width="36"
+                                                                                                        height="36"
                                                                                                         style="display: block; width: 36px; height: 36px; border-radius: 50%; border: 0.93px solid #EB5424;" />
                                                                                                 </td>
                                                                                                 <td valign="middle">
-                                                                                                    <div style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; font-weight: 500; color: #232329; line-height: 18px; text-transform: uppercase;">
+                                                                                                    <div
+                                                                                                        style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; font-weight: 500; color: #232329; line-height: 18px; text-transform: uppercase;">
                                                                                                         RAYEES BHAT
                                                                                                     </div>
-                                                                                                    <div style="font-family: 'Poppins', Arial, sans-serif; font-size: 10px; font-weight: 400; color: #333333; line-height: 15px;">
-                                                                                                        Senior Business Analyst, miniOrange
+                                                                                                    <div
+                                                                                                        style="font-family: 'Poppins', Arial, sans-serif; font-size: 10px; font-weight: 400; color: #333333; line-height: 15px;">
+                                                                                                        Senior Business
+                                                                                                        Analyst,
+                                                                                                        miniOrange
                                                                                                     </div>
                                                                                                 </td>
                                                                                             </tr>
@@ -488,20 +593,31 @@
                                                                                     </td>
 
                                                                                     <!-- SPEAKER 2: DHRUV BHAVSAR -->
-                                                                                    <td valign="top" class="mobile-speaker-card" style="width: 50%;">
-                                                                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                                                                                    <td valign="top"
+                                                                                        class="mobile-speaker-card"
+                                                                                        style="width: 50%;">
+                                                                                        <table role="presentation"
+                                                                                            border="0" cellpadding="0"
+                                                                                            cellspacing="0">
                                                                                             <tr>
-                                                                                                <td valign="middle" style="padding-right: 10px;">
-                                                                                                    <img src="https://files.catbox.moe/7o82ig.png" alt="Dhruv Bhavsar"
-                                                                                                        width="36" height="36"
+                                                                                                <td valign="middle"
+                                                                                                    style="padding-right: 10px;">
+                                                                                                    <img src="https://files.catbox.moe/7o82ig.png"
+                                                                                                        alt="Dhruv Bhavsar"
+                                                                                                        width="36"
+                                                                                                        height="36"
                                                                                                         style="display: block; width: 36px; height: 36px; border-radius: 50%; border: 0.93px solid #EB5424;" />
                                                                                                 </td>
                                                                                                 <td valign="middle">
-                                                                                                    <div style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; font-weight: 500; color: #232329; line-height: 18px; text-transform: uppercase;">
+                                                                                                    <div
+                                                                                                        style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; font-weight: 500; color: #232329; line-height: 18px; text-transform: uppercase;">
                                                                                                         DHRUV BHAVSAR
                                                                                                     </div>
-                                                                                                    <div style="font-family: 'Poppins', Arial, sans-serif; font-size: 10px; font-weight: 400; color: #333333; line-height: 15px;">
-                                                                                                        Senior Software Engineer, miniOrange
+                                                                                                    <div
+                                                                                                        style="font-family: 'Poppins', Arial, sans-serif; font-size: 10px; font-weight: 400; color: #333333; line-height: 15px;">
+                                                                                                        Senior Software
+                                                                                                        Engineer,
+                                                                                                        miniOrange
                                                                                                     </div>
                                                                                                 </td>
                                                                                             </tr>
@@ -514,17 +630,22 @@
 
                                                                     <!-- DIVIDER -->
                                                                     <tr>
-                                                                        <td style="padding-bottom: 10px; border-bottom: 1px solid #DCDCDC;"></td>
+                                                                        <td
+                                                                            style="padding-bottom: 10px; border-bottom: 1px solid #DCDCDC;">
+                                                                        </td>
                                                                     </tr>
 
                                                                     <!-- DATE & TIME SECTION -->
                                                                     <tr>
                                                                         <td style="padding-top: 10px;">
-                                                                            <div style="font-family: 'Poppins', Arial, sans-serif; font-size: 11px; font-weight: 400; color: #969696; letter-spacing: 0.5px; margin-bottom: 2px;">
+                                                                            <div
+                                                                                style="font-family: 'Poppins', Arial, sans-serif; font-size: 11px; font-weight: 400; color: #969696; letter-spacing: 0.5px; margin-bottom: 2px;">
                                                                                 Date &amp; Time
                                                                             </div>
-                                                                            <div style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; font-weight: 600; color: #333333; line-height: 18px;">
-                                                                                September 22, 2026 &bull; 10:00 AM &ndash; 11:30 AM (GST)
+                                                                            <div
+                                                                                style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; font-weight: 600; color: #333333; line-height: 18px;">
+                                                                                September 22, 2026 &bull; 10:00 AM
+                                                                                &ndash; 11:30 AM (GST)
                                                                             </div>
                                                                         </td>
                                                                     </tr>
@@ -553,8 +674,9 @@
                                 style="background-color: #FFFFFF; border: 0.8px solid #E2E2E2; border-radius: 14.04px; -webkit-border-radius: 14.04px; -moz-border-radius: 14.04px; box-shadow: 0 2px 6px rgba(0,0,0,0.02); overflow: hidden; border-collapse: separate;">
                                 <tr>
                                     <td style="padding: 20px; border-radius: 14.04px; -webkit-border-radius: 14.04px;">
-                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
-                                            
+                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0"
+                                            width="100%">
+
                                             <!-- TITLE: WHAT YOU'LL LEARN -->
                                             <tr>
                                                 <td style="padding-bottom: 12px;">
@@ -568,13 +690,17 @@
                                             <!-- BULLET 1 -->
                                             <tr>
                                                 <td valign="top" style="padding-bottom: 10px;">
-                                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <table role="presentation" border="0" cellpadding="0"
+                                                        cellspacing="0" width="100%">
                                                         <tr>
-                                                            <td valign="top" style="width: 14px; color: #FF6200; font-size: 16px; line-height: 18px; font-weight: bold; padding-top: 1px;">
+                                                            <td valign="top"
+                                                                style="width: 14px; color: #FF6200; font-size: 16px; line-height: 18px; font-weight: bold; padding-top: 1px;">
                                                                 &bull;
                                                             </td>
-                                                            <td valign="top" style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; font-weight: 400;">
-                                                                Control access to corporate applications based on device compliance and security posture
+                                                            <td valign="top"
+                                                                style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; font-weight: 400;">
+                                                                Control access to corporate applications based on device
+                                                                compliance and security posture
                                                             </td>
                                                         </tr>
                                                     </table>
@@ -584,13 +710,17 @@
                                             <!-- BULLET 2 -->
                                             <tr>
                                                 <td valign="top" style="padding-bottom: 10px;">
-                                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <table role="presentation" border="0" cellpadding="0"
+                                                        cellspacing="0" width="100%">
                                                         <tr>
-                                                            <td valign="top" style="width: 14px; color: #FF6200; font-size: 16px; line-height: 18px; font-weight: bold; padding-top: 1px;">
+                                                            <td valign="top"
+                                                                style="width: 14px; color: #FF6200; font-size: 16px; line-height: 18px; font-weight: bold; padding-top: 1px;">
                                                                 &bull;
                                                             </td>
-                                                            <td valign="top" style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; font-weight: 400;">
-                                                                Prevent sensitive data, source code, and regulated information from being shared with unauthorized AI tools
+                                                            <td valign="top"
+                                                                style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; font-weight: 400;">
+                                                                Prevent sensitive data, source code, and regulated
+                                                                information from being shared with unauthorized AI tools
                                                             </td>
                                                         </tr>
                                                     </table>
@@ -600,13 +730,17 @@
                                             <!-- BULLET 3 -->
                                             <tr>
                                                 <td valign="top" style="padding-bottom: 10px;">
-                                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <table role="presentation" border="0" cellpadding="0"
+                                                        cellspacing="0" width="100%">
                                                         <tr>
-                                                            <td valign="top" style="width: 14px; color: #FF6200; font-size: 16px; line-height: 18px; font-weight: bold; padding-top: 1px;">
+                                                            <td valign="top"
+                                                                style="width: 14px; color: #FF6200; font-size: 16px; line-height: 18px; font-weight: bold; padding-top: 1px;">
                                                                 &bull;
                                                             </td>
-                                                            <td valign="top" style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; font-weight: 400;">
-                                                                Restrict screenshots, clipboard use, USB transfers, printing, file sharing, and cloud uploads
+                                                            <td valign="top"
+                                                                style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; font-weight: 400;">
+                                                                Restrict screenshots, clipboard use, USB transfers,
+                                                                printing, file sharing, and cloud uploads
                                                             </td>
                                                         </tr>
                                                     </table>
@@ -616,13 +750,17 @@
                                             <!-- BULLET 4 -->
                                             <tr>
                                                 <td valign="top" style="padding-bottom: 10px;">
-                                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <table role="presentation" border="0" cellpadding="0"
+                                                        cellspacing="0" width="100%">
                                                         <tr>
-                                                            <td valign="top" style="width: 14px; color: #FF6200; font-size: 16px; line-height: 18px; font-weight: bold; padding-top: 1px;">
+                                                            <td valign="top"
+                                                                style="width: 14px; color: #FF6200; font-size: 16px; line-height: 18px; font-weight: bold; padding-top: 1px;">
                                                                 &bull;
                                                             </td>
-                                                            <td valign="top" style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; font-weight: 400;">
-                                                                Enforce encryption, screen locks, OS requirements, patching, and application policies
+                                                            <td valign="top"
+                                                                style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; font-weight: 400;">
+                                                                Enforce encryption, screen locks, OS requirements,
+                                                                patching, and application policies
                                                             </td>
                                                         </tr>
                                                     </table>
@@ -632,13 +770,17 @@
                                             <!-- BULLET 5 -->
                                             <tr>
                                                 <td valign="top" style="padding-bottom: 10px;">
-                                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <table role="presentation" border="0" cellpadding="0"
+                                                        cellspacing="0" width="100%">
                                                         <tr>
-                                                            <td valign="top" style="width: 14px; color: #FF6200; font-size: 16px; line-height: 18px; font-weight: bold; padding-top: 1px;">
+                                                            <td valign="top"
+                                                                style="width: 14px; color: #FF6200; font-size: 16px; line-height: 18px; font-weight: bold; padding-top: 1px;">
                                                                 &bull;
                                                             </td>
-                                                            <td valign="top" style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; font-weight: 400;">
-                                                                Remotely lock, quarantine, or wipe compromised, lost, or stolen devices
+                                                            <td valign="top"
+                                                                style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; font-weight: 400;">
+                                                                Remotely lock, quarantine, or wipe compromised, lost, or
+                                                                stolen devices
                                                             </td>
                                                         </tr>
                                                     </table>
@@ -648,13 +790,17 @@
                                             <!-- BULLET 6 -->
                                             <tr>
                                                 <td valign="top" style="padding-bottom: 14px;">
-                                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <table role="presentation" border="0" cellpadding="0"
+                                                        cellspacing="0" width="100%">
                                                         <tr>
-                                                            <td valign="top" style="width: 14px; color: #FF6200; font-size: 16px; line-height: 18px; font-weight: bold; padding-top: 1px;">
+                                                            <td valign="top"
+                                                                style="width: 14px; color: #FF6200; font-size: 16px; line-height: 18px; font-weight: bold; padding-top: 1px;">
                                                                 &bull;
                                                             </td>
-                                                            <td valign="top" style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; font-weight: 400;">
-                                                                Support security and compliance requirements including ISO 27001, HIPAA, and the SAMA Cyber Security Framework
+                                                            <td valign="top"
+                                                                style="font-family: 'Poppins', Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; font-weight: 400;">
+                                                                Support security and compliance requirements including
+                                                                ISO 27001, HIPAA, and the SAMA Cyber Security Framework
                                                             </td>
                                                         </tr>
                                                     </table>
@@ -666,7 +812,9 @@
                                                 <td style="padding-top: 12px;">
                                                     <p
                                                         style="margin: 0; font-family: 'Poppins', Arial, sans-serif; font-size: 13px; line-height: 20px; font-weight: 500; color: #333333;">
-                                                        We'll Also Walk Through Practical Use Cases Across AI, IT, Banking And Healthcare, Followed By A Live Solution Demo And Q&amp;A.
+                                                        We'll Also Walk Through Practical Use Cases Across AI, IT,
+                                                        Banking And Healthcare, Followed By A Live Solution Demo And
+                                                        Q&amp;A.
                                                     </p>
                                                 </td>
                                             </tr>
@@ -689,7 +837,8 @@
                                     <td align="center" style="padding: 0 0 24px 0;">
                                         <p
                                             style="margin: 0; font-family: 'Poppins', Arial, sans-serif; font-size: 14px; line-height: 21px; font-weight: 500; color: #333333; text-align: center; max-width: 547px; text-transform: capitalize;">
-                                            We'll Also Walk Through Practical Use Cases Across AI, IT, Banking And Healthcare, Followed By A Live Solution Demo And Q&amp;A.
+                                            We'll Also Walk Through Practical Use Cases Across AI, IT, Banking And
+                                            Healthcare, Followed By A Live Solution Demo And Q&amp;A.
                                         </p>
                                     </td>
                                 </tr>
@@ -697,12 +846,14 @@
                                 <!-- RESERVE YOUR SPOT CTA CARD (Frame 2147225204) -->
                                 <tr>
                                     <td align="center">
-                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%"
+                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0"
+                                            width="100%" class="cta-card-outer"
                                             style="background-color: #050C16; border-radius: 14px; overflow: hidden; height: 81px;">
                                             <tr>
                                                 <td width="100%" class="cta-card-td"
                                                     style="padding: 0 32px; height: 81px; background-color: #050C16; background-image: url('https://files.catbox.moe/vvuyo3.png'); background-position: center; background-repeat: no-repeat; background-size: cover;">
-                                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <table role="presentation" border="0" cellpadding="0"
+                                                        cellspacing="0" width="100%">
                                                         <tr>
                                                             <!-- LEFT: RESERVE YOUR SPOT TEXT -->
                                                             <td valign="middle" align="left" class="cta-text-cell">
@@ -713,12 +864,13 @@
                                                             </td>
                                                             <!-- RIGHT: REGISTER NOW BUTTON -->
                                                             <td valign="middle" align="right" class="cta-btn-cell">
-                                                                <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="button-td">
+                                                                <table role="presentation" border="0" cellpadding="0"
+                                                                    cellspacing="0" class="button-td cta-btn-table">
                                                                     <tr>
                                                                         <td align="center"
                                                                             style="background-color: #EB5424; border-radius: 4px;">
-                                                                            <a href="https://live.zoho.in/fzqq-oyr-nbz" target="_blank"
-                                                                                class="button-a"
+                                                                            <a href="https://live.zoho.in/fzqq-oyr-nbz"
+                                                                                target="_blank" class="button-a"
                                                                                 style="font-size: 10.5px; line-height: 16px; font-family: 'Poppins', Arial, sans-serif; font-weight: 600; color: #FFFFFF; text-decoration: none; padding: 4px 14px; border-radius: 4px; display: inline-block; letter-spacing: 0.02em; white-space: nowrap;">
                                                                                 Register Now
                                                                             </a>
@@ -740,7 +892,8 @@
 
                     <!-- FOOTER SECTION (Frame Footer, width: 674px, height: 68px, padding: 16px 32px, background: #16120F) -->
                     <tr>
-                        <td align="center" style="background-color: #16120F; padding: 16px 32px; height: 68px; box-sizing: border-box;" class="mobile-padding">
+                        <td align="center" class="footer-td mobile-padding"
+                            style="background-color: #16120F; padding: 16px 32px; height: 68px; box-sizing: border-box;">
                             <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
                                 <tr>
                                     <!-- FOOTER LOGO (Width: 143.25px, Logo: 130.27px x 23.59px) -->
@@ -754,7 +907,8 @@
 
                                     <!-- FOOTER SOCIAL ICONS (Container width: 126.86px, gap: 9.43px) -->
                                     <td valign="middle" align="right" class="footer-col-right">
-                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="footer-social-table" style="width: 126.86px;">
+                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0"
+                                            class="footer-social-table" style="width: 126.86px;">
                                             <tr>
                                                 <!-- WEBSITE ICON -->
                                                 <td style="padding-right: 9.43px; width: 36px; height: 36px;">
@@ -767,7 +921,8 @@
                                                 </td>
                                                 <!-- LINKEDIN ICON -->
                                                 <td style="padding-right: 9.43px; width: 36px; height: 36px;">
-                                                    <a href="https://www.linkedin.com/company/miniorange/home/" target="_blank"
+                                                    <a href="https://www.linkedin.com/company/miniorange/home/"
+                                                        target="_blank"
                                                         style="display: block; width: 36px; height: 36px; text-decoration: none;">
                                                         <img src="https://files.catbox.moe/y2po6y.png" alt="LinkedIn"
                                                             width="36" height="36"
