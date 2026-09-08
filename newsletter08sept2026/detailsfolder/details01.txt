@@ -1,0 +1,1560 @@
+/* Frame 2147225212 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 37px;
+
+width: 1378px;
+height: 119px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225209 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 18px 30px;
+
+width: 396px;
+height: 119px;
+
+background: rgba(101, 101, 101, 0.25);
+border-radius: 19px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* DATE */
+
+width: 336px;
+height: 35px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 150%;
+/* identical to box height, or 34px */
+display: flex;
+align-items: center;
+letter-spacing: 0.15em;
+
+color: #7C808A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 17th September 2026 */
+
+width: 336px;
+height: 48px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 150%;
+/* identical to box height, or 48px */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225210 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 18px 30px;
+
+width: 248px;
+height: 119px;
+
+background: rgba(101, 101, 101, 0.25);
+border-radius: 19px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* TIME */
+
+width: 188px;
+height: 35px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 150%;
+/* identical to box height, or 34px */
+display: flex;
+align-items: center;
+letter-spacing: 0.15em;
+
+color: #7C808A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 4:00 PM IST */
+
+width: 188px;
+height: 48px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 150%;
+/* identical to box height, or 48px */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225211 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 18px 30px;
+
+width: 286px;
+height: 119px;
+
+background: rgba(101, 101, 101, 0.25);
+border-radius: 19px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* FORMAT */
+
+width: 226px;
+height: 35px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 150%;
+/* identical to box height, or 34px */
+display: flex;
+align-items: center;
+letter-spacing: 0.15em;
+
+color: #7C808A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* LIVE WEBINAR */
+
+width: 226px;
+height: 48px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 150%;
+/* identical to box height, or 48px */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+
+// what ll learn section  donw here 
+
+/* card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 72px;
+gap: 10px;
+
+width: 1920px;
+height: 1180px;
+
+background: #FBFBFB;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147227246 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 44px;
+
+width: 1662px;
+height: 1046px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147227245 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 14px;
+
+width: 1662px;
+height: 166px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* title */
+
+width: 1662px;
+height: 99px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 79.1209px;
+line-height: 125%;
+/* identical to box height, or 99px */
+text-align: center;
+
+color: #1C1D2B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* lead */
+
+width: 1662px;
+height: 53px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 38.2418px;
+line-height: 138%;
+/* identical to box height, or 53px */
+text-align: center;
+
+color: #7A7F8C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div */
+
+width: 1662px;
+height: 836px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* cell */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 810px;
+height: 259px;
+left: 0.3px;
+top: 0px;
+
+background: #FFFFFF;
+border: 2.10989px solid #E9EBEE;
+border-radius: 36.9231px;
+
+
+/* icon-circ */
+
+position: absolute;
+width: 121.32px;
+height: 121.32px;
+left: 60.12px;
+top: 60.13px;
+
+background: #FDECE3;
+border-radius: 31.6484px;
+
+
+/* svg */
+
+position: absolute;
+width: 63.3px;
+height: 63.3px;
+left: 29.01px;
+top: 29.01px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 18.2%;
+right: 18.16%;
+top: 9.09%;
+bottom: 9.09%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.08%;
+right: 34.1%;
+top: 38.64%;
+bottom: 38.63%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* txt */
+
+position: absolute;
+width: 526.42px;
+height: 186.46px;
+left: 223.64px;
+top: 60.13px;
+
+
+
+/* b */
+
+position: absolute;
+width: 547.52px;
+height: 58px;
+left: 0px;
+top: 13.19px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 40.8791px;
+line-height: 57px;
+/* identical to box height, or 140% */
+
+color: #1C1D2B;
+
+
+
+/* Managing customer co... */
+
+position: absolute;
+width: 477.16px;
+height: 80px;
+left: 0px;
+top: 73.58px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* or 125% */
+
+color: #1C1D2B;
+
+
+
+/* cell */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 810px;
+height: 259px;
+left: 852.3px;
+top: 0px;
+
+background: #FFFFFF;
+border: 2.10989px solid #E9EBEE;
+border-radius: 36.9231px;
+
+
+/* icon-circ */
+
+position: absolute;
+width: 121.32px;
+height: 121.32px;
+left: 60.12px;
+top: 60.13px;
+
+background: #FDECE3;
+border-radius: 31.6484px;
+
+
+/* svg */
+
+position: absolute;
+width: 63.3px;
+height: 63.3px;
+left: 29.01px;
+top: 29.01px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.36%;
+right: 34.1%;
+top: 19.55%;
+bottom: 60.45%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.36%;
+right: 34.1%;
+top: 29.55%;
+bottom: 19.54%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.36%;
+right: 34.1%;
+top: 50%;
+bottom: 40%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Union */
+
+position: absolute;
+width: 27.91px;
+height: 27.91px;
+left: 36.23px;
+top: 35.39px;
+
+background: #E8622C;
+border: 3px solid #FDECE3;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.34%;
+right: 7.75%;
+top: 60%;
+bottom: 9.09%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.7%;
+right: 2.75%;
+top: 86.36%;
+bottom: 4.09%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* txt */
+
+position: absolute;
+width: 526.42px;
+height: 186.46px;
+left: 223.64px;
+top: 60.13px;
+
+
+
+/* b */
+
+position: absolute;
+width: 547.52px;
+height: 58px;
+left: 0px;
+top: 13.19px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 40.8791px;
+line-height: 57px;
+/* identical to box height, or 140% */
+
+color: #1C1D2B;
+
+
+
+/* Discovering personal... */
+
+position: absolute;
+width: 477.16px;
+height: 80px;
+left: 0px;
+top: 73.58px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* or 125% */
+
+color: #1C1D2B;
+
+
+
+/* cell */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 810px;
+height: 258px;
+left: 0.3px;
+top: 289px;
+
+background: #FFFFFF;
+border: 2.10989px solid #E9EBEE;
+border-radius: 36.9231px;
+
+
+/* icon-circ */
+
+position: absolute;
+width: 121.32px;
+height: 121.32px;
+left: 60.12px;
+top: 60.13px;
+
+background: #FDECE3;
+border-radius: 31.6484px;
+
+
+/* svg */
+
+position: absolute;
+width: 63.3px;
+height: 63.3px;
+left: 29.01px;
+top: 29.01px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25.46%;
+right: 43.63%;
+top: 14.09%;
+bottom: 55%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.64%;
+right: 44.54%;
+top: 54.55%;
+bottom: 13.63%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.36%;
+right: 6.82%;
+top: 59.09%;
+bottom: 18.18%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* txt */
+
+position: absolute;
+width: 526.42px;
+height: 186.46px;
+left: 223.64px;
+top: 60.13px;
+
+
+
+/* b */
+
+position: absolute;
+width: 547.52px;
+height: 58px;
+left: 0px;
+top: 13.19px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 40.8791px;
+line-height: 57px;
+/* identical to box height, or 140% */
+
+color: #1C1D2B;
+
+
+
+/* Handling Data Princi... */
+
+position: absolute;
+width: 477.16px;
+height: 80px;
+left: 0px;
+top: 73.58px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* or 125% */
+
+color: #1C1D2B;
+
+
+
+/* cell */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 810px;
+height: 258px;
+left: 852.3px;
+top: 289px;
+
+background: #FFFFFF;
+border: 2.10989px solid #E9EBEE;
+border-radius: 36.9231px;
+
+
+/* icon-circ */
+
+position: absolute;
+width: 121.32px;
+height: 121.32px;
+left: 60.12px;
+top: 60.13px;
+
+background: #FDECE3;
+border-radius: 31.6484px;
+
+
+/* svg */
+
+position: absolute;
+width: 63.3px;
+height: 63.3px;
+left: 29.02px;
+top: 29.01px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.9%;
+right: 65.46%;
+top: 38.18%;
+bottom: 38.18%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.46%;
+right: 10.9%;
+top: 10.91%;
+bottom: 65.45%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.46%;
+right: 10.9%;
+top: 65.45%;
+bottom: 10.91%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.17%;
+right: 33.2%;
+top: 28.18%;
+bottom: 55.45%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.17%;
+right: 33.2%;
+top: 55.45%;
+bottom: 28.18%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* txt */
+
+position: absolute;
+width: 526.42px;
+height: 186.46px;
+left: 223.64px;
+top: 60.13px;
+
+
+
+/* b */
+
+position: absolute;
+width: 547.52px;
+height: 58px;
+left: 0px;
+top: 13.19px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 40.8791px;
+line-height: 57px;
+/* identical to box height, or 140% */
+
+color: #1C1D2B;
+
+
+
+/* Managing third-party... */
+
+position: absolute;
+width: 477.16px;
+height: 80px;
+left: 0px;
+top: 73.58px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* or 125% */
+
+color: #1C1D2B;
+
+
+
+/* cell */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 810px;
+height: 259px;
+left: 0.3px;
+top: 577px;
+
+background: #FFFFFF;
+border: 2.10989px solid #E9EBEE;
+border-radius: 36.9231px;
+
+
+/* icon-circ */
+
+position: absolute;
+width: 121.32px;
+height: 121.32px;
+left: 60.12px;
+top: 60.13px;
+
+background: #FDECE3;
+border-radius: 31.6484px;
+
+
+/* svg */
+
+position: absolute;
+width: 63.3px;
+height: 63.3px;
+left: 29.01px;
+top: 29.01px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 18.2%;
+right: 18.16%;
+top: 9.09%;
+bottom: 9.09%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 50%;
+top: 34.09%;
+bottom: 45.46%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.9%;
+right: 45.92%;
+top: 64.09%;
+bottom: 27.73%;
+
+background: #E8622C;
+
+
+/* txt */
+
+position: absolute;
+width: 526.42px;
+height: 186.46px;
+left: 223.64px;
+top: 60.13px;
+
+
+
+/* b */
+
+position: absolute;
+width: 547.52px;
+height: 58px;
+left: 0px;
+top: 13.19px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 40.8791px;
+line-height: 57px;
+/* identical to box height, or 140% */
+
+color: #1C1D2B;
+
+
+
+/* Strengthening data b... */
+
+position: absolute;
+width: 477.16px;
+height: 80px;
+left: 0px;
+top: 73.58px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* or 125% */
+
+color: #1C1D2B;
+
+
+
+/* cell */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 810px;
+height: 259px;
+left: 852.3px;
+top: 577px;
+
+background: #FFFFFF;
+border: 2.10989px solid #E9EBEE;
+border-radius: 36.9231px;
+
+
+/* icon-circ */
+
+position: absolute;
+width: 121.32px;
+height: 121.32px;
+left: 60.12px;
+top: 60.13px;
+
+background: #FDECE3;
+border-radius: 31.6484px;
+
+
+/* svg */
+
+position: absolute;
+width: 63.3px;
+height: 63.3px;
+left: 29.02px;
+top: 29.01px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 15.46%;
+right: 60.9%;
+top: 15.45%;
+bottom: 60.91%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 60.9%;
+right: 15.46%;
+top: 15.45%;
+bottom: 60.91%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.18%;
+right: 38.18%;
+top: 60.91%;
+bottom: 15.45%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.61%;
+right: 37.87%;
+top: 34.34%;
+bottom: 33.17%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* txt */
+
+position: absolute;
+width: 526.42px;
+height: 241.85px;
+left: 223.64px;
+top: 60.13px;
+
+
+
+/* b */
+
+position: absolute;
+width: 547.52px;
+height: 58px;
+left: 0px;
+top: 13.19px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 40.8791px;
+line-height: 57px;
+/* identical to box height, or 140% */
+
+color: #1C1D2B;
+
+
+
+/* Building scalable pr... */
+
+position: absolute;
+width: 477.16px;
+height: 80px;
+left: 0px;
+top: 73.58px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* or 125% */
+
+color: #1C1D2B;
+
+
+// dpdp for bfsi section donw here 
+
+/* Frame 2147227219 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 40px;
+gap: 10.23px;
+
+width: 1740px;
+height: 468px;
+
+background: #FEF8F4;
+border: 1.5px solid #FFD6C0;
+border-radius: 42px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147227220 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 176px;
+
+width: 1596px;
+height: 234px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* DPDP for BFSI: Practical Data Privacy Use Cases for Banks, NBFCs & FinTechs */
+
+width: 914px;
+height: 234px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 52px;
+line-height: 150%;
+/* or 78px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147225384 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 40px;
+gap: 32px;
+
+width: 506px;
+height: 224px;
+
+background: radial-gradient(216.68% 296.42% at 82.21% 145.96%, #424242 0%, #000000 80.29%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+border: 1px solid #E2E2E2;
+border-radius: 26px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147225375 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 414px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* calendar (1) 1 */
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.28%;
+right: 10.28%;
+top: 8.75%;
+bottom: 8.75%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 10.28%;
+right: 10.28%;
+top: 8.75%;
+bottom: 8.75%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.28%;
+right: 10.28%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #FFFFFF;
+
+
+/* 17Th September 2026 */
+
+width: 350px;
+height: 37px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 115%;
+/* identical to box height, or 37px */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 1503 */
+
+width: 426px;
+height: 0px;
+
+border: 1px solid #CBCBCB;
+transform: rotate(-180deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147225383 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 426px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* clock 1 */
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 46.13%;
+right: 30.63%;
+top: 23.2%;
+bottom: 34.2%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 46.13%;
+right: 30.63%;
+top: 23.2%;
+bottom: 34.2%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 46.13%;
+right: 30.63%;
+top: 23.2%;
+bottom: 34.2%;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 7.5%;
+right: 7.5%;
+top: 7.5%;
+bottom: 7.5%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 7.5%;
+right: 7.5%;
+top: 7.5%;
+bottom: 7.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 7.5%;
+right: 7.5%;
+top: 7.5%;
+bottom: 7.5%;
+
+background: #FFFFFF;
+
+
+/* 4:00 Pm IST */
+
+width: 187px;
+height: 37px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 115%;
+/* identical to box height, or 37px */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+// cta section here down 
+
+/* Frame 2147225204 */
+
+width: 1740px;
+height: 406px;
+
+background: #050C16;
+border-radius: 40px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* mark-lines.svg */
+
+position: absolute;
+width: 1884.94px;
+height: 372px;
+left: -134px;
+top: 75px;
+
+
+
+/* Group */
+
+position: absolute;
+left: -49.45%;
+right: -37.01%;
+top: -59.27%;
+bottom: -131.45%;
+
+opacity: 0.8;
+
+
+/* Mask group */
+
+position: absolute;
+left: -49.45%;
+right: -37.01%;
+top: -59.27%;
+bottom: -131.45%;
+
+
+
+/* Group */
+
+position: absolute;
+left: -49.45%;
+right: -37.01%;
+top: -59.27%;
+bottom: -131.45%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: -49.45%;
+right: -37.01%;
+top: -59.27%;
+bottom: -131.45%;
+
+background: linear-gradient(271.3deg, #454444 27.79%, #A2A1A1 43.55%, #454444 59.32%);
+
+
+/* Move beyond the understanding phase. See how it can be put into practice across banking and financial services. */
+
+position: absolute;
+left: 10.45%;
+right: 5.2%;
+top: -9.95%;
+bottom: 44.89%;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 124%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Frame 2147225390 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 20px 41px;
+gap: 10px;
+
+position: absolute;
+width: 318px;
+left: calc(50% - 318px/2 + 49.03px);
+top: 49.73%;
+bottom: 30.38%;
+
+background: #EB5424;
+border-radius: 15px;
+
+
+/* Register Today */
+
+width: 236px;
+height: 34px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 112%;
+/* identical to box height, or 34px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
