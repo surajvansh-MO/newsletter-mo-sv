@@ -1,0 +1,4496 @@
+/* dpdp newletter */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: relative;
+width: 1920px;
+height: 4785.74px;
+
+
+
+/* Frame 2147225380 */
+
+width: 1920px;
+height: 889px;
+
+background: #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 54101 */
+
+position: absolute;
+width: 793px;
+height: 793px;
+left: 1516px;
+top: -397px;
+
+background: radial-gradient(50% 50% at 50% 50%, #EB5424 0%, rgba(0, 0, 0, 0) 100%);
+opacity: 0.8;
+
+
+/* Union */
+
+position: absolute;
+width: 1811.09px;
+height: 1302.32px;
+left: calc(50% - 1811.09px/2 - 992.35px);
+top: -157.16px;
+
+background: radial-gradient(69.05% 111.48% at 99.7% 30.45%, rgba(255, 255, 255, 0) 0.48%, rgba(255, 255, 255, 0) 15%, #FFFEFE 63.52%, rgba(216, 216, 216, 0.2) 95.76%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+opacity: 0.2;
+
+
+/* Group 1261164528 */
+
+position: absolute;
+width: 1720.54px;
+height: 1301.72px;
+left: -860.55px;
+top: -157.16px;
+
+
+
+/* Line 1395 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -860.55px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1396 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -770px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1397 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -679.44px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1398 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -588.89px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1399 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -498.33px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1400 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -407.78px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1401 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -317.22px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1402 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -226.67px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1403 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -136.12px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1404 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -45.56px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1405 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 44.99px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1406 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 135.55px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1407 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 226.11px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1408 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 316.66px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1410 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 497.77px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1411 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 588.32px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1412 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 678.88px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1413 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 769.43px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1414 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 859.99px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1409 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 407.21px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Group 1261164529 */
+
+position: absolute;
+width: 1267.76px;
+height: 1811.09px;
+left: -937.9px;
+top: -123.2px;
+
+transform: rotate(90deg);
+
+
+/* Line 1395 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: -123.2px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1396 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: -32.64px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1397 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 57.91px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1398 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 148.46px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1399 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 239.02px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1400 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 329.57px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1401 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 420.13px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1402 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 510.68px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1403 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 601.23px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1404 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 691.79px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1405 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 782.34px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1406 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 872.9px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1407 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 963.45px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1408 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 1054.01px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1409 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 1144.56px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Union */
+
+position: absolute;
+width: 1811.09px;
+height: 1302.32px;
+left: calc(50% - 1811.09px/2 - 992.35px);
+top: -157.16px;
+
+background: radial-gradient(69.05% 111.48% at 99.7% 30.45%, rgba(255, 255, 255, 0) 0.48%, rgba(255, 255, 255, 0) 15%, #FFFEFE 63.52%, rgba(216, 216, 216, 0.2) 95.76%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+opacity: 0.2;
+
+
+/* Group 1261164528 */
+
+position: absolute;
+width: 1720.54px;
+height: 1301.72px;
+left: -860.55px;
+top: -157.16px;
+
+
+
+/* Line 1395 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -860.55px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1396 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -770px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1397 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -679.44px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1398 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -588.89px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1399 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -498.33px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1400 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -407.78px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1401 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -317.22px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1402 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -226.67px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1403 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -136.12px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1404 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: -45.56px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1405 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 44.99px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1406 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 135.55px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1407 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 226.11px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1408 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 316.66px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1410 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 497.77px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1411 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 588.32px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1412 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 678.88px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1413 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 769.43px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1414 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 859.99px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1409 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 407.21px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Group 1261164529 */
+
+position: absolute;
+width: 1267.76px;
+height: 1811.09px;
+left: -937.9px;
+top: -123.2px;
+
+transform: rotate(90deg);
+
+
+/* Line 1395 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: -123.2px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1396 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: -32.64px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1397 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 57.91px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1398 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 148.46px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1399 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 239.02px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1400 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 329.57px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1401 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 420.13px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1402 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 510.68px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1403 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 601.23px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1404 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 691.79px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1405 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 782.34px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1406 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 872.9px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1407 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 963.45px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1408 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 1054.01px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1409 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: -937.9px;
+top: 1144.56px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Union */
+
+position: absolute;
+width: 1811.09px;
+height: 1302.32px;
+left: calc(50% - 1811.09px/2 + 203.05px);
+top: -157.16px;
+
+background: radial-gradient(69.05% 111.48% at 99.7% 30.45%, rgba(255, 255, 255, 0) 0.48%, rgba(255, 255, 255, 0) 15%, #FFFEFE 63.52%, rgba(216, 216, 216, 0.2) 95.76%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+opacity: 0.2;
+
+
+/* Group 1261164528 */
+
+position: absolute;
+width: 1720.54px;
+height: 1301.72px;
+left: 334.85px;
+top: -157.16px;
+
+
+
+/* Line 1395 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 334.85px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1396 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 425.4px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1397 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 515.96px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1398 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 606.51px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1399 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 697.07px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1400 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 787.62px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1401 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 878.18px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1402 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 968.73px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1403 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 1059.28px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1404 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 1149.84px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1405 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 1240.39px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1406 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 1330.95px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1407 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 1421.5px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1408 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 1512.06px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1410 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 1693.17px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1411 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 1783.72px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1412 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 1874.28px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1413 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 1964.83px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1414 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 2055.38px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 1409 */
+
+position: absolute;
+width: 1301.72px;
+height: 0px;
+left: 1602.61px;
+top: -157.16px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Group 1261164529 */
+
+position: absolute;
+width: 1267.76px;
+height: 1811.09px;
+left: 257.5px;
+top: -123.2px;
+
+transform: rotate(90deg);
+
+
+/* Line 1395 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: 257.5px;
+top: -123.2px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1396 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: 257.5px;
+top: -32.64px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1397 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: 257.5px;
+top: 57.91px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1398 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: 257.5px;
+top: 148.46px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1399 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: 257.5px;
+top: 239.02px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1400 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: 257.5px;
+top: 329.57px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1401 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: 257.5px;
+top: 420.13px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1402 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: 257.5px;
+top: 510.68px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1403 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: 257.5px;
+top: 601.23px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1404 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: 257.5px;
+top: 691.79px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1405 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: 257.5px;
+top: 782.34px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1406 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: 257.5px;
+top: 872.9px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1407 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: 257.5px;
+top: 963.45px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1408 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: 257.5px;
+top: 1054.01px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Line 1409 */
+
+position: absolute;
+width: 1811.09px;
+height: 0px;
+left: 257.5px;
+top: 1144.56px;
+
+border: 0.595287px solid #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Frame 1618872320 */
+
+position: absolute;
+width: 1020px;
+height: 921.09px;
+left: 900px;
+top: -15.39px;
+
+
+
+/* Vector 6853 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(freepik__the-style-is-candid-image-photography-with-natural__1902.jpg);
+filter: blur(6.9px);
+
+
+/* Vector 6853 */
+
+position: absolute;
+left: -23.25%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(269.64deg, rgba(6, 6, 6, 0) 49.98%, #000000 93.04%);
+
+
+/* Frame 2147225215 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 82px;
+
+position: absolute;
+width: 995px;
+height: 208px;
+left: 90px;
+top: 183px;
+
+
+
+/* Frame 2147225214 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 38px;
+
+width: 995px;
+height: 208px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225208 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 45px;
+
+width: 995px;
+height: 208px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225190 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 995px;
+height: 208px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Ellipse 54102 */
+
+position: absolute;
+width: 793px;
+height: 793px;
+left: -397px;
+top: 195px;
+
+background: radial-gradient(50% 50% at 50% 50%, #EB5424 0%, rgba(0, 0, 0, 0) 100%);
+opacity: 0.5;
+
+
+/* Frame 2147225400 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 63px;
+
+position: absolute;
+width: 1378px;
+height: 599.67px;
+left: 90px;
+top: 197px;
+
+
+
+/* Frame 2147225399 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 1378px;
+height: 448px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* DPDP for BFSI: Practical Data Privacy Use Cases for Banks, NBFCs & FinTechs */
+
+width: 1378px;
+height: 297px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 700;
+font-size: 85px;
+line-height: 130%;
+/* or 110px */
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147225212 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 37px;
+
+width: 1378px;
+height: 119px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225209 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 18px 30px;
+
+width: 396px;
+height: 119px;
+
+background: rgba(101, 101, 101, 0.25);
+border-radius: 19px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* DATE */
+
+width: 336px;
+height: 35px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 150%;
+/* identical to box height, or 34px */
+display: flex;
+align-items: center;
+letter-spacing: 0.15em;
+
+color: #7C808A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 17th September 2026 */
+
+width: 336px;
+height: 48px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 150%;
+/* identical to box height, or 48px */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225210 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 18px 30px;
+
+width: 248px;
+height: 119px;
+
+background: rgba(101, 101, 101, 0.25);
+border-radius: 19px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* TIME */
+
+width: 188px;
+height: 35px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 150%;
+/* identical to box height, or 34px */
+display: flex;
+align-items: center;
+letter-spacing: 0.15em;
+
+color: #7C808A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 4:00 PM IST */
+
+width: 188px;
+height: 48px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 150%;
+/* identical to box height, or 48px */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225211 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 18px 30px;
+
+width: 286px;
+height: 119px;
+
+background: rgba(101, 101, 101, 0.25);
+border-radius: 19px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* FORMAT */
+
+width: 226px;
+height: 35px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 150%;
+/* identical to box height, or 34px */
+display: flex;
+align-items: center;
+letter-spacing: 0.15em;
+
+color: #7C808A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* LIVE WEBINAR */
+
+width: 226px;
+height: 48px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 150%;
+/* identical to box height, or 48px */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* CTA/Reserve Your Spot */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 23.3333px 40px;
+gap: 16.67px;
+
+width: 335px;
+height: 88.67px;
+
+background: linear-gradient(135deg, #FF7A42 14.29%, #EE5A24 53.57%, #D44E1C 85.71%);
+box-shadow: 0px 23.3333px 50px -16.6667px rgba(238, 90, 36, 0.6), inset 0px 1.66667px 0px rgba(255, 255, 255, 0.35);
+border-radius: 1665px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Reserve your spot */
+
+width: 255px;
+height: 42px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 42px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 6 */
+
+position: absolute;
+width: 403.75px;
+height: 81.42px;
+left: 1426px;
+top: 76.77px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 77.81%;
+right: 18.73%;
+top: 8.64%;
+bottom: 90.18%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 74.27%;
+right: 4.7%;
+top: 10.25%;
+bottom: 82.21%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 81.62%;
+right: 15.06%;
+top: 8.85%;
+bottom: 83.18%;
+
+background: #F7934D;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.97%;
+right: 16.36%;
+top: 11.54%;
+bottom: 85.87%;
+
+background: #F7934D;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.87%;
+right: 15.51%;
+top: 8.85%;
+bottom: 88.89%;
+
+background: #4D9965;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.96%;
+right: 15.1%;
+top: 9.82%;
+bottom: 88.56%;
+
+background: #9BCE7A;
+
+
+/* Frame 2147225391 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 90px;
+gap: 110px;
+
+width: 1920px;
+height: 3575px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225181 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 31px;
+
+width: 1660px;
+height: 541px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Hi there, */
+
+width: 170px;
+height: 59px;
+
+font-family: 'Poppins SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 39px;
+line-height: 150%;
+/* identical to box height, or 58px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147225180 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 26px;
+
+width: 1740px;
+height: 240px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Financial institutions manage sensitive personal data across customer onboarding, KYC, digital services, third-party integrations, and multiple business systems. With DPDP requirements taking shape, the challenge is no longer just understanding the regulation—it’s putting privacy into practice. */
+
+width: 1740px;
+height: 240px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 150%;
+/* or 60px */
+display: flex;
+align-items: center;
+
+color: #444444;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147225181 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 26px;
+
+width: 1660px;
+height: 180px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Join our upcoming webinar, DPDP for BFSI: Practical Data Privacy Use Cases for Banks, NBFCs & FinTechs, to explore how DPDP requirements translate into real-world financial services and banking workflows. */
+
+width: 1660px;
+height: 180px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 150%;
+/* or 60px */
+display: flex;
+align-items: center;
+
+color: #444444;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 72px;
+gap: 10px;
+
+width: 1920px;
+height: 1180px;
+
+background: #FBFBFB;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147227246 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 44px;
+
+width: 1662px;
+height: 1046px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147227245 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 14px;
+
+width: 1662px;
+height: 166px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* title */
+
+width: 1662px;
+height: 99px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 79.1209px;
+line-height: 125%;
+/* identical to box height, or 99px */
+text-align: center;
+
+color: #1C1D2B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* lead */
+
+width: 1662px;
+height: 53px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 38.2418px;
+line-height: 138%;
+/* identical to box height, or 53px */
+text-align: center;
+
+color: #7A7F8C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div */
+
+width: 1662px;
+height: 836px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* cell */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 810px;
+height: 259px;
+left: 0.3px;
+top: 0px;
+
+background: #FFFFFF;
+border: 2.10989px solid #E9EBEE;
+border-radius: 36.9231px;
+
+
+/* icon-circ */
+
+position: absolute;
+width: 121.32px;
+height: 121.32px;
+left: 60.12px;
+top: 60.13px;
+
+background: #FDECE3;
+border-radius: 31.6484px;
+
+
+/* svg */
+
+position: absolute;
+width: 63.3px;
+height: 63.3px;
+left: 29.01px;
+top: 29.01px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 18.2%;
+right: 18.16%;
+top: 9.09%;
+bottom: 9.09%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.08%;
+right: 34.1%;
+top: 38.64%;
+bottom: 38.63%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* txt */
+
+position: absolute;
+width: 526.42px;
+height: 186.46px;
+left: 223.64px;
+top: 60.13px;
+
+
+
+/* b */
+
+position: absolute;
+width: 547.52px;
+height: 58px;
+left: 0px;
+top: 13.19px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 40.8791px;
+line-height: 57px;
+/* identical to box height, or 140% */
+
+color: #1C1D2B;
+
+
+
+/* Managing customer co... */
+
+position: absolute;
+width: 477.16px;
+height: 80px;
+left: 0px;
+top: 73.58px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* or 125% */
+
+color: #1C1D2B;
+
+
+
+/* cell */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 810px;
+height: 259px;
+left: 852.3px;
+top: 0px;
+
+background: #FFFFFF;
+border: 2.10989px solid #E9EBEE;
+border-radius: 36.9231px;
+
+
+/* icon-circ */
+
+position: absolute;
+width: 121.32px;
+height: 121.32px;
+left: 60.12px;
+top: 60.13px;
+
+background: #FDECE3;
+border-radius: 31.6484px;
+
+
+/* svg */
+
+position: absolute;
+width: 63.3px;
+height: 63.3px;
+left: 29.01px;
+top: 29.01px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.36%;
+right: 34.1%;
+top: 19.55%;
+bottom: 60.45%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.36%;
+right: 34.1%;
+top: 29.55%;
+bottom: 19.54%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.36%;
+right: 34.1%;
+top: 50%;
+bottom: 40%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Union */
+
+position: absolute;
+width: 27.91px;
+height: 27.91px;
+left: 36.23px;
+top: 35.39px;
+
+background: #E8622C;
+border: 3px solid #FDECE3;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.34%;
+right: 7.75%;
+top: 60%;
+bottom: 9.09%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.7%;
+right: 2.75%;
+top: 86.36%;
+bottom: 4.09%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* txt */
+
+position: absolute;
+width: 526.42px;
+height: 186.46px;
+left: 223.64px;
+top: 60.13px;
+
+
+
+/* b */
+
+position: absolute;
+width: 547.52px;
+height: 58px;
+left: 0px;
+top: 13.19px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 40.8791px;
+line-height: 57px;
+/* identical to box height, or 140% */
+
+color: #1C1D2B;
+
+
+
+/* Discovering personal... */
+
+position: absolute;
+width: 477.16px;
+height: 80px;
+left: 0px;
+top: 73.58px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* or 125% */
+
+color: #1C1D2B;
+
+
+
+/* cell */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 810px;
+height: 258px;
+left: 0.3px;
+top: 289px;
+
+background: #FFFFFF;
+border: 2.10989px solid #E9EBEE;
+border-radius: 36.9231px;
+
+
+/* icon-circ */
+
+position: absolute;
+width: 121.32px;
+height: 121.32px;
+left: 60.12px;
+top: 60.13px;
+
+background: #FDECE3;
+border-radius: 31.6484px;
+
+
+/* svg */
+
+position: absolute;
+width: 63.3px;
+height: 63.3px;
+left: 29.01px;
+top: 29.01px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25.46%;
+right: 43.63%;
+top: 14.09%;
+bottom: 55%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.64%;
+right: 44.54%;
+top: 54.55%;
+bottom: 13.63%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.36%;
+right: 6.82%;
+top: 59.09%;
+bottom: 18.18%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* txt */
+
+position: absolute;
+width: 526.42px;
+height: 186.46px;
+left: 223.64px;
+top: 60.13px;
+
+
+
+/* b */
+
+position: absolute;
+width: 547.52px;
+height: 58px;
+left: 0px;
+top: 13.19px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 40.8791px;
+line-height: 57px;
+/* identical to box height, or 140% */
+
+color: #1C1D2B;
+
+
+
+/* Handling Data Princi... */
+
+position: absolute;
+width: 477.16px;
+height: 80px;
+left: 0px;
+top: 73.58px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* or 125% */
+
+color: #1C1D2B;
+
+
+
+/* cell */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 810px;
+height: 258px;
+left: 852.3px;
+top: 289px;
+
+background: #FFFFFF;
+border: 2.10989px solid #E9EBEE;
+border-radius: 36.9231px;
+
+
+/* icon-circ */
+
+position: absolute;
+width: 121.32px;
+height: 121.32px;
+left: 60.12px;
+top: 60.13px;
+
+background: #FDECE3;
+border-radius: 31.6484px;
+
+
+/* svg */
+
+position: absolute;
+width: 63.3px;
+height: 63.3px;
+left: 29.02px;
+top: 29.01px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.9%;
+right: 65.46%;
+top: 38.18%;
+bottom: 38.18%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.46%;
+right: 10.9%;
+top: 10.91%;
+bottom: 65.45%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.46%;
+right: 10.9%;
+top: 65.45%;
+bottom: 10.91%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.17%;
+right: 33.2%;
+top: 28.18%;
+bottom: 55.45%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.17%;
+right: 33.2%;
+top: 55.45%;
+bottom: 28.18%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* txt */
+
+position: absolute;
+width: 526.42px;
+height: 186.46px;
+left: 223.64px;
+top: 60.13px;
+
+
+
+/* b */
+
+position: absolute;
+width: 547.52px;
+height: 58px;
+left: 0px;
+top: 13.19px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 40.8791px;
+line-height: 57px;
+/* identical to box height, or 140% */
+
+color: #1C1D2B;
+
+
+
+/* Managing third-party... */
+
+position: absolute;
+width: 477.16px;
+height: 80px;
+left: 0px;
+top: 73.58px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* or 125% */
+
+color: #1C1D2B;
+
+
+
+/* cell */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 810px;
+height: 259px;
+left: 0.3px;
+top: 577px;
+
+background: #FFFFFF;
+border: 2.10989px solid #E9EBEE;
+border-radius: 36.9231px;
+
+
+/* icon-circ */
+
+position: absolute;
+width: 121.32px;
+height: 121.32px;
+left: 60.12px;
+top: 60.13px;
+
+background: #FDECE3;
+border-radius: 31.6484px;
+
+
+/* svg */
+
+position: absolute;
+width: 63.3px;
+height: 63.3px;
+left: 29.01px;
+top: 29.01px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 18.2%;
+right: 18.16%;
+top: 9.09%;
+bottom: 9.09%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 50%;
+top: 34.09%;
+bottom: 45.46%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.9%;
+right: 45.92%;
+top: 64.09%;
+bottom: 27.73%;
+
+background: #E8622C;
+
+
+/* txt */
+
+position: absolute;
+width: 526.42px;
+height: 186.46px;
+left: 223.64px;
+top: 60.13px;
+
+
+
+/* b */
+
+position: absolute;
+width: 547.52px;
+height: 58px;
+left: 0px;
+top: 13.19px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 40.8791px;
+line-height: 57px;
+/* identical to box height, or 140% */
+
+color: #1C1D2B;
+
+
+
+/* Strengthening data b... */
+
+position: absolute;
+width: 477.16px;
+height: 80px;
+left: 0px;
+top: 73.58px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* or 125% */
+
+color: #1C1D2B;
+
+
+
+/* cell */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 810px;
+height: 259px;
+left: 852.3px;
+top: 577px;
+
+background: #FFFFFF;
+border: 2.10989px solid #E9EBEE;
+border-radius: 36.9231px;
+
+
+/* icon-circ */
+
+position: absolute;
+width: 121.32px;
+height: 121.32px;
+left: 60.12px;
+top: 60.13px;
+
+background: #FDECE3;
+border-radius: 31.6484px;
+
+
+/* svg */
+
+position: absolute;
+width: 63.3px;
+height: 63.3px;
+left: 29.02px;
+top: 29.01px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 15.46%;
+right: 60.9%;
+top: 15.45%;
+bottom: 60.91%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 60.9%;
+right: 15.46%;
+top: 15.45%;
+bottom: 60.91%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.18%;
+right: 38.18%;
+top: 60.91%;
+bottom: 15.45%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.61%;
+right: 37.87%;
+top: 34.34%;
+bottom: 33.17%;
+
+border: 5.17882px solid #E8622C;
+
+
+/* txt */
+
+position: absolute;
+width: 526.42px;
+height: 241.85px;
+left: 223.64px;
+top: 60.13px;
+
+
+
+/* b */
+
+position: absolute;
+width: 547.52px;
+height: 58px;
+left: 0px;
+top: 13.19px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 40.8791px;
+line-height: 57px;
+/* identical to box height, or 140% */
+
+color: #1C1D2B;
+
+
+
+/* Building scalable pr... */
+
+position: absolute;
+width: 477.16px;
+height: 80px;
+left: 0px;
+top: 73.58px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* or 125% */
+
+color: #1C1D2B;
+
+
+
+/* Frame 2147227240 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+display: none;
+width: 1740px;
+height: 1437.5px;
+
+background: #FFFFFF;
+border: 3px solid rgba(207, 209, 218, 0.87);
+border-radius: 26.6903px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147227241 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24.26px;
+
+width: 1740px;
+height: 454.86px;
+
+/* Stroke/for Light BG/Active */
+border-bottom: 2.42639px solid #CFD1DA;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147227225 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 41.2487px 0px 41.2487px 72.7918px;
+gap: 41.25px;
+
+width: 1740px;
+height: 452.44px;
+
+border-left: 7.27918px solid #EB5424;
+border-radius: 26.6903px 26.6903px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Join our upcoming webinar, */
+
+width: 1659.93px;
+height: 58px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 38.8223px;
+line-height: 58px;
+
+color: #E8622C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147227224 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 26.69px;
+
+width: 1659.93px;
+height: 270.69px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* DPDP for BFSI: Practical Data Privacy Use Cases for Banks, NBFCs & FinTechs */
+
+width: 1659.93px;
+height: 146px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 700;
+font-size: 58.2335px;
+line-height: 73px;
+
+color: #1C1D2B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* to explore how DPDP requirements translate into real-world financial services and banking workflows */
+
+width: 1048px;
+height: 98px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 35.1827px;
+line-height: 49px;
+/* or 138% */
+
+color: #7A7F8C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147227242 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 43.68px;
+
+width: 1462.85px;
+height: 982.64px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147227226 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 53.3227px 0px 53.3227px 94.0989px;
+gap: 53.32px;
+
+width: 1462.85px;
+height: 982.64px;
+
+border-radius: 34.5029px 0px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 1562103425 */
+
+width: 1368.75px;
+height: 876px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line 1602 */
+
+position: absolute;
+width: 805.07px;
+height: 0px;
+left: 147.73px;
+top: 93.01px;
+
+transform: rotate(90deg);
+
+
+/* Frame 2147227239 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 37.64px;
+
+position: absolute;
+width: 1368.75px;
+height: 876px;
+left: 94.1px;
+top: 53.32px;
+
+
+
+/* Frame 2147227233 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 62.73px;
+
+width: 1232.96px;
+height: 114.63px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147227227 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 28.2297px 31.3663px;
+gap: 31.37px;
+
+width: 111.23px;
+height: 114.63px;
+
+/* ORange */
+background: linear-gradient(148.84deg, #E8622C -5.22%, #823719 185.11%);
+border-radius: 119.192px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 01 */
+
+width: 53px;
+height: 55px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 700;
+font-size: 43.9128px;
+line-height: 55px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Managing customer consent and preferences */
+
+width: 1059px;
+height: 68px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 45.4812px;
+line-height: 68px;
+
+color: #2A2A2A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147227234 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 62.73px;
+
+width: 1153.96px;
+height: 114.63px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147227228 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 28.2297px 31.3663px;
+gap: 31.37px;
+
+width: 111.23px;
+height: 114.63px;
+
+/* ORange */
+background: linear-gradient(148.84deg, #E8622C -5.22%, #823719 185.11%);
+border-radius: 119.192px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 02 */
+
+width: 62px;
+height: 55px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 700;
+font-size: 43.9128px;
+line-height: 55px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Discovering personal data across systems */
+
+width: 980px;
+height: 68px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 45.4812px;
+line-height: 68px;
+
+color: #2A2A2A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147227235 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 62.73px;
+
+width: 931.96px;
+height: 114.63px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 2147227229 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 28.2297px 31.3663px;
+gap: 31.37px;
+
+width: 111.23px;
+height: 114.63px;
+
+/* ORange */
+background: linear-gradient(148.84deg, #E8622C -5.22%, #823719 185.11%);
+border-radius: 119.192px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 03 */
+
+width: 62px;
+height: 55px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 700;
+font-size: 43.9128px;
+line-height: 55px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Handling Data Principal requests */
+
+width: 758px;
+height: 68px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 45.4812px;
+line-height: 68px;
+
+color: #2A2A2A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147227236 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 62.73px;
+
+width: 989.96px;
+height: 114.63px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Frame 2147227230 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 28.2297px 31.3663px;
+gap: 31.37px;
+
+width: 111.23px;
+height: 114.63px;
+
+/* ORange */
+background: linear-gradient(148.84deg, #E8622C -5.22%, #823719 185.11%);
+border-radius: 119.192px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 04 */
+
+width: 63px;
+height: 55px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 700;
+font-size: 43.9128px;
+line-height: 55px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Managing third-party data sharing */
+
+width: 816px;
+height: 68px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 45.4812px;
+line-height: 68px;
+
+color: #2A2A2A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147227237 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 62.73px;
+
+width: 1026.96px;
+height: 114.63px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Frame 2147227231 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 28.2297px 31.3663px;
+gap: 31.37px;
+
+width: 111.23px;
+height: 114.63px;
+
+/* ORange */
+background: linear-gradient(148.84deg, #E8622C -5.22%, #823719 185.11%);
+border-radius: 119.192px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 05 */
+
+width: 62px;
+height: 55px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 700;
+font-size: 43.9128px;
+line-height: 55px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Strengthening data breach response */
+
+width: 853px;
+height: 68px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 45.4812px;
+line-height: 68px;
+
+color: #2A2A2A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147227238 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 62.73px;
+
+width: 1368.75px;
+height: 114.63px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147227232 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 28.2297px 31.3663px;
+gap: 31.37px;
+
+width: 111.23px;
+height: 114.63px;
+
+/* ORange */
+background: linear-gradient(148.84deg, #E8622C -5.22%, #823719 185.11%);
+border-radius: 119.192px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 06 */
+
+width: 64px;
+height: 55px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 700;
+font-size: 43.9128px;
+line-height: 55px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Building scalable privacy and compliance workflows */
+
+width: 1213px;
+height: 68px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 45.4812px;
+line-height: 68px;
+
+color: #2A2A2A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147227219 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 40px;
+gap: 10.23px;
+
+width: 1740px;
+height: 468px;
+
+background: #FEF8F4;
+border: 1.5px solid #FFD6C0;
+border-radius: 42px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147227220 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 176px;
+
+width: 1596px;
+height: 234px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* DPDP for BFSI: Practical Data Privacy Use Cases for Banks, NBFCs & FinTechs */
+
+width: 914px;
+height: 234px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 52px;
+line-height: 150%;
+/* or 78px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147225384 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 40px;
+gap: 32px;
+
+width: 506px;
+height: 224px;
+
+background: radial-gradient(216.68% 296.42% at 82.21% 145.96%, #424242 0%, #000000 80.29%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+border: 1px solid #E2E2E2;
+border-radius: 26px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147225375 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 414px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* calendar (1) 1 */
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.28%;
+right: 10.28%;
+top: 8.75%;
+bottom: 8.75%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 10.28%;
+right: 10.28%;
+top: 8.75%;
+bottom: 8.75%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.28%;
+right: 10.28%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #FFFFFF;
+
+
+/* 17Th September 2026 */
+
+width: 350px;
+height: 37px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 115%;
+/* identical to box height, or 37px */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 1503 */
+
+width: 426px;
+height: 0px;
+
+border: 1px solid #CBCBCB;
+transform: rotate(-180deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147225383 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 426px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* clock 1 */
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 46.13%;
+right: 30.63%;
+top: 23.2%;
+bottom: 34.2%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 46.13%;
+right: 30.63%;
+top: 23.2%;
+bottom: 34.2%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 46.13%;
+right: 30.63%;
+top: 23.2%;
+bottom: 34.2%;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 7.5%;
+right: 7.5%;
+top: 7.5%;
+bottom: 7.5%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 7.5%;
+right: 7.5%;
+top: 7.5%;
+bottom: 7.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 7.5%;
+right: 7.5%;
+top: 7.5%;
+bottom: 7.5%;
+
+background: #FFFFFF;
+
+
+/* 4:00 Pm IST */
+
+width: 187px;
+height: 37px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 115%;
+/* identical to box height, or 37px */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147227205 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 88px 0px 130px;
+gap: 10px;
+
+width: 1896px;
+height: 360px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Whether you work in privacy, compliance, security, risk, or IT, this session will help you better understand how to approach DPDP implementation within complex financial environments.Regards,Team miniOrange */
+
+width: 1678px;
+height: 360px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 150%;
+/* or 60px */
+display: flex;
+align-items: center;
+
+color: #444444;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225204 */
+
+width: 1740px;
+height: 406px;
+
+background: #050C16;
+border-radius: 40px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* mark-lines.svg */
+
+position: absolute;
+width: 1884.94px;
+height: 372px;
+left: -134px;
+top: 75px;
+
+
+
+/* Group */
+
+position: absolute;
+left: -49.45%;
+right: -37.01%;
+top: -59.27%;
+bottom: -131.45%;
+
+opacity: 0.8;
+
+
+/* Mask group */
+
+position: absolute;
+left: -49.45%;
+right: -37.01%;
+top: -59.27%;
+bottom: -131.45%;
+
+
+
+/* Group */
+
+position: absolute;
+left: -49.45%;
+right: -37.01%;
+top: -59.27%;
+bottom: -131.45%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: -49.45%;
+right: -37.01%;
+top: -59.27%;
+bottom: -131.45%;
+
+background: linear-gradient(271.3deg, #454444 27.79%, #A2A1A1 43.55%, #454444 59.32%);
+
+
+/* Move beyond the understanding phase. See how it can be put into practice across banking and financial services. */
+
+position: absolute;
+left: 10.45%;
+right: 5.2%;
+top: -9.95%;
+bottom: 44.89%;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 124%;
+/* or 62px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Frame 2147225390 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 20px 41px;
+gap: 10px;
+
+position: absolute;
+width: 318px;
+left: calc(50% - 318px/2 + 49.03px);
+top: 49.73%;
+bottom: 30.38%;
+
+background: #EB5424;
+border-radius: 15px;
+
+
+/* Register Today */
+
+width: 236px;
+height: 34px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 112%;
+/* identical to box height, or 34px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Footer */
+
+width: 1920px;
+height: 321.74px;
+
+background: #16120F;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 408.06px;
+height: 132px;
+left: 115.2px;
+top: 95.74px;
+
+
+
+/* MoLogo */
+
+width: 371.1px;
+height: 67.2px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.82%;
+right: 66.78%;
+top: 0%;
+bottom: 87.06%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.13%;
+top: 17.64%;
+bottom: 0.04%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.93%;
+right: 49.32%;
+top: 2.36%;
+bottom: 10.62%;
+
+background: #F7934D;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.32%;
+right: 55.49%;
+top: 31.76%;
+bottom: 40.02%;
+
+background: #F7934D;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.57%;
+right: 51.45%;
+top: 2.36%;
+bottom: 72.95%;
+
+background: #4D9965;
+
+
+/* Vector */
+
+position: absolute;
+left: 46%;
+right: 49.53%;
+top: 12.94%;
+bottom: 69.42%;
+
+background: #9BCE7A;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 21.6px 0px 0px;
+
+width: 408.06px;
+height: 64.8px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Reach out to us anytime */
+
+width: 415px;
+height: 41px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 26.4px;
+line-height: 41px;
+/* identical to box height, or 155% */
+letter-spacing: 1.584px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 39.6px;
+
+position: absolute;
+width: 532.8px;
+height: 151.2px;
+left: 1342.8px;
+top: 85px;
+
+
+
+/* SocialLink */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 151.2px;
+height: 151.2px;
+
+border: 2.88px solid rgba(255, 255, 255, 0.16);
+border-radius: 43.2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* App */
+
+width: 64.8px;
+height: 64.8px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 4.59px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 4.59px solid #FFFFFF;
+
+
+/* SocialLink */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 151.2px;
+height: 151.2px;
+
+border: 2.88px solid rgba(255, 255, 255, 0.16);
+border-radius: 43.2px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* App */
+
+width: 64.8px;
+height: 64.8px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 8.84%;
+top: 15.08%;
+bottom: 16.67%;
+
+background: #FFFFFF;
+
+
+/* SocialLink */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 151.2px;
+height: 151.2px;
+
+border: 2.88px solid rgba(255, 255, 255, 0.16);
+border-radius: 43.2px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* App */
+
+width: 64.8px;
+height: 64.8px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.24%;
+right: 29.17%;
+top: 22.92%;
+bottom: 8.33%;
+
+background: #FFFFFF;
