@@ -29,7 +29,7 @@
             margin: 0 !important;
             padding: 0 !important;
             width: 100% !important;
-            height: 100% !important;
+            min-width: 100% !important;
             background-color: #f2f2f2;
             -webkit-text-size-adjust: 100%;
             -ms-text-size-adjust: 100%;
@@ -61,9 +61,8 @@
             .email-container {
                 width: 100% !important;
                 max-width: 100% !important;
-                min-width: 100% !important;
-                margin-top: 0 !important;
-                margin-bottom: 0 !important;
+                min-width: 0 !important;
+                margin: 0 !important;
                 border-radius: 0px !important;
             }
 
@@ -78,8 +77,8 @@
             }
 
             .mobile-padding {
-                padding-left: 18px !important;
-                padding-right: 18px !important;
+                padding-left: 20px !important;
+                padding-right: 20px !important;
             }
 
             .hero-padding {
@@ -87,20 +86,27 @@
                 padding-right: 20px !important;
                 padding-top: 24px !important;
                 padding-bottom: 28px !important;
+                height: auto !important;
+                min-height: auto !important;
             }
 
             .hero-logo-td {
-                padding-bottom: 20px !important;
+                padding-bottom: 16px !important;
             }
 
             .hero-logo-img {
-                width: 110px !important;
-                max-width: 110px !important;
+                width: 105px !important;
+                max-width: 105px !important;
             }
 
             .mobile-h1 {
-                font-size: 20px !important;
-                line-height: 27px !important;
+                font-size: 19px !important;
+                line-height: 25px !important;
+            }
+
+            .mobile-h1 span {
+                font-size: 17px !important;
+                line-height: 23px !important;
             }
 
             .banner-pills-td {
@@ -109,7 +115,8 @@
                 box-sizing: border-box !important;
                 margin-bottom: 8px !important;
                 padding-right: 0 !important;
-                padding-bottom: 4px !important;
+                padding-left: 0 !important;
+                padding-bottom: 0 !important;
             }
 
             .banner-pill-box {
@@ -120,28 +127,39 @@
             .feature-col {
                 display: block !important;
                 width: 100% !important;
+                max-width: 100% !important;
                 box-sizing: border-box !important;
                 padding-right: 0 !important;
                 padding-left: 0 !important;
-                padding-bottom: 12px !important;
+                padding-bottom: 10px !important;
             }
 
             .recap-col-title {
                 display: block !important;
                 width: 100% !important;
-                text-align: left !important;
+                max-width: 100% !important;
+                box-sizing: border-box !important;
+                text-align: center !important;
                 padding-right: 0 !important;
-                padding-bottom: 16px !important;
+                padding-bottom: 18px !important;
             }
 
             .recap-col-badge {
                 display: block !important;
                 width: 100% !important;
-                text-align: left !important;
+                max-width: 100% !important;
+                box-sizing: border-box !important;
+                text-align: center !important;
+            }
+
+            .recap-badge-table {
+                margin: 0 auto !important;
+                width: 100% !important;
+                max-width: 240px !important;
             }
 
             .cta-card-td {
-                padding: 34px 18px 28px 18px !important;
+                padding: 28px 18px 24px 18px !important;
                 height: auto !important;
                 text-align: center !important;
             }
@@ -151,31 +169,42 @@
             }
 
             .cta-heading {
-                font-size: 16px !important;
-                line-height: 22px !important;
-                padding-bottom: 18px !important;
+                font-size: 15px !important;
+                line-height: 21px !important;
+                padding-bottom: 16px !important;
             }
 
             .footer-td {
-                padding: 24px 18px !important;
+                padding: 28px 20px !important;
                 height: auto !important;
+                box-sizing: border-box !important;
             }
 
             .footer-col-left {
                 display: block !important;
                 width: 100% !important;
-                text-align: left !important;
-                padding-bottom: 18px !important;
+                box-sizing: border-box !important;
+                text-align: center !important;
+                padding-bottom: 24px !important;
+            }
+
+            .footer-col-left table {
+                margin: 0 auto !important;
+            }
+
+            .footer-col-left img {
+                margin: 0 auto !important;
             }
 
             .footer-col-right {
                 display: block !important;
                 width: 100% !important;
-                text-align: left !important;
+                box-sizing: border-box !important;
+                text-align: center !important;
             }
 
             .footer-social-table {
-                margin: 0 !important;
+                margin: 0 auto !important;
             }
         }
     </style>
@@ -633,7 +662,7 @@
 
                                                 <!-- RIGHT: BLACK GLASSMORPHIC DATE/TIME BADGE (Frame 2147225384, background: radial-gradient, border: 1px solid #E2E2E2, radius: 10px) -->
                                                 <td valign="middle" align="right" class="recap-col-badge" style="width: 42%;">
-                                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0"
+                                                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="recap-badge-table"
                                                         style="background: #1C1D2B; background: radial-gradient(circle at 82% 145%, #424242 0%, #000000 80%); border: 1px solid #E2E2E2; border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; padding: 14px 14px; width: 100%; max-width: 205px; border-collapse: separate;">
                                                         <!-- DATE ROW (Frame 2147225375) -->
                                                         <tr>
