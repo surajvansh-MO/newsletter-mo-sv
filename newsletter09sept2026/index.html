@@ -119,20 +119,20 @@
             }
 
             .question-card-table {
-                padding: 12px 14px !important;
-                border-radius: 14px !important;
-                -webkit-border-radius: 14px !important;
+                padding: 10px 12px !important;
+                border-radius: 12px !important;
+                -webkit-border-radius: 12px !important;
             }
 
             .question-icon-img {
-                width: 30px !important;
-                height: 30px !important;
+                width: 32px !important;
+                height: 32px !important;
             }
 
             .question-text {
                 font-size: 12px !important;
-                line-height: 16px !important;
-                padding-left: 2px !important;
+                line-height: 17px !important;
+                padding-left: 0px !important;
             }
 
             .recap-col-title {
@@ -155,8 +155,8 @@
 
             .recap-badge-table {
                 margin: 0 auto !important;
-                width: 100% !important;
-                max-width: 220px !important;
+                width: auto !important;
+                max-width: 185px !important;
             }
 
             .save-spot-h2 {
@@ -196,6 +196,24 @@
             .footer-social-table {
                 margin: 0 auto !important;
             }
+        }
+
+        /* Dark Mode Client Support */
+        @media (prefers-color-scheme: dark) {
+            body, html {
+                background-color: #1a1a1a !important;
+            }
+            .email-container {
+                background-color: #ffffff !important;
+            }
+        }
+
+        /* Apple Mail & iOS Dark Mode Fixes */
+        [data-ogsc] body {
+            background-color: #1a1a1a !important;
+        }
+        [data-ogsc] .email-container {
+            background-color: #ffffff !important;
         }
     </style>
 </head>
@@ -633,20 +651,20 @@
                                                     style="width: 40%;">
                                                     <table role="presentation" border="0" cellpadding="0"
                                                         cellspacing="0" class="recap-badge-table"
-                                                        style="background: #000000; background: radial-gradient(circle at 82.21% 145.96%, #424242 0%, #000000 80.29%); border: 1px solid #E2E2E2; border-radius: 12px; -webkit-border-radius: 12px; -moz-border-radius: 12px; padding: 13px 14px; width: 100%; max-width: 185px; border-collapse: separate;">
+                                                        style="background: #000000; background: radial-gradient(circle at 82.21% 145.96%, #424242 0%, #000000 80.29%); border: 1px solid #E2E2E2; border-radius: 12px; -webkit-border-radius: 12px; -moz-border-radius: 12px; padding: 13px 14px; width: auto; max-width: 185px; border-collapse: separate; margin-left: auto;">
                                                         <!-- DATE ROW (Frame 2147225375) -->
                                                         <tr>
-                                                            <td style="padding-bottom: 7px;">
+                                                            <td style="padding-bottom: 7px;" align="left">
                                                                 <table role="presentation" border="0" cellpadding="0"
-                                                                    cellspacing="0" width="100%">
+                                                                    cellspacing="0">
                                                                     <tr>
                                                                         <td valign="middle"
-                                                                            style="width: 20px; padding-right: 7px; line-height: 1;">
+                                                                            style="padding-right: 8px; line-height: 1;">
                                                                             <img src="https://files.catbox.moe/754vaf.png"
                                                                                 alt="Calendar" width="15" height="15"
                                                                                 style="display: block; width: 15px; height: 15px; border: 0;" />
                                                                         </td>
-                                                                        <td valign="middle"
+                                                                        <td valign="middle" align="left"
                                                                             style="font-family: 'Poppins', Arial, sans-serif; font-size: 11px; font-weight: 600; color: #FFFFFF; line-height: 14px; letter-spacing: 0.01em; text-transform: uppercase; white-space: nowrap;">
                                                                             17TH SEPTEMBER 2026
                                                                         </td>
@@ -662,17 +680,17 @@
                                                         </tr>
                                                         <!-- TIME ROW (Frame 2147225383) -->
                                                         <tr>
-                                                            <td style="padding-top: 7px;">
+                                                            <td style="padding-top: 7px;" align="left">
                                                                 <table role="presentation" border="0" cellpadding="0"
-                                                                    cellspacing="0" width="100%">
+                                                                    cellspacing="0">
                                                                     <tr>
                                                                         <td valign="middle"
-                                                                            style="width: 20px; padding-right: 7px; line-height: 1;">
+                                                                            style="padding-right: 8px; line-height: 1;">
                                                                             <img src="https://files.catbox.moe/j6xh9h.png"
                                                                                 alt="Clock" width="15" height="15"
                                                                                 style="display: block; width: 15px; height: 15px; border: 0;" />
                                                                         </td>
-                                                                        <td valign="middle"
+                                                                        <td valign="middle" align="left"
                                                                             style="font-family: 'Poppins', Arial, sans-serif; font-size: 11px; font-weight: 600; color: #FFFFFF; line-height: 14px; letter-spacing: 0.01em; text-transform: uppercase; white-space: nowrap;">
                                                                             4:00 PM IST
                                                                         </td>
