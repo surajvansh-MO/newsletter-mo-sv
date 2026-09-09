@@ -4,7 +4,7 @@ import uuid
 import json
 
 res_dir = r'c:\Users\Admin\Desktop\newsletter\newsletter09sept2026\resources_folder'
-files = [f for f in os.listdir(res_dir) if f.lower().endswith(('.png', '.jpg', '.jpeg', '.svg'))]
+files = [f for f in os.listdir(res_dir) if f.lower().endswith(('.png', '.jpg', '.jpeg', '.svg')) and f != 'test_banner_crop.png']
 
 urls = {}
 for fname in files:
@@ -37,7 +37,7 @@ for fname in files:
         }
     )
     try:
-        with urllib.request.urlopen(req) as resp:
+        with urllib.request.urlopen(req, timeout=15) as resp:
             url = resp.read().decode('utf-8').strip()
             urls[fname] = url
             print(f'{fname} -> {url}')
