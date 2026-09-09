@@ -1,0 +1,824 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"
+    xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="x-apple-disable-message-reformatting" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="supported-color-schemes" content="light dark" />
+    <title>How Does DPDP Compliance Apply to Real-World BFSI Workflows?</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700&family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Sora:wght@400;600;700;800&display=swap"
+        rel="stylesheet" />
+    <!--[if mso]>
+    <noscript>
+        <xml>
+            <o:OfficeDocumentSettings>
+                <o:AllowPNG/>
+                <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+    </noscript>
+    <![endif]-->
+    <style type="text/css">
+        /* Reset & Base Email Styles */
+        html,
+        body {
+            margin: 0 !important;
+            padding: 0 !important;
+            width: 100% !important;
+            min-width: 100% !important;
+            background-color: #f2f2f2;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+
+        table,
+        td {
+            mso-table-lspace: 0pt !important;
+            mso-table-rspace: 0pt !important;
+            border-collapse: collapse;
+        }
+
+        img {
+            -ms-interpolation-mode: bicubic;
+            border: 0;
+            height: auto;
+            line-height: 100%;
+            outline: none;
+            text-decoration: none;
+            display: block;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        /* Mobile Responsiveness Rules */
+        @media only screen and (max-width: 650px) {
+            .email-container {
+                width: 100% !important;
+                max-width: 100% !important;
+                min-width: 0 !important;
+                margin: 0 !important;
+                border-radius: 0px !important;
+            }
+
+            .outer-padding {
+                padding: 0 !important;
+            }
+
+            .fluid-img {
+                width: 100% !important;
+                max-width: 100% !important;
+                height: auto !important;
+            }
+
+            .mobile-padding {
+                padding-left: 20px !important;
+                padding-right: 20px !important;
+            }
+
+            .hero-padding {
+                padding-left: 20px !important;
+                padding-right: 20px !important;
+                padding-top: 24px !important;
+                padding-bottom: 28px !important;
+                height: auto !important;
+                min-height: auto !important;
+            }
+
+            .hero-logo-td {
+                padding-bottom: 16px !important;
+            }
+
+            .hero-logo-img {
+                width: 110px !important;
+                max-width: 110px !important;
+            }
+
+            .mobile-h1 {
+                font-size: 20px !important;
+                line-height: 26px !important;
+            }
+
+            .mobile-h1 span {
+                font-size: 14.5px !important;
+                line-height: 20px !important;
+                color: #D6D6D6 !important;
+            }
+
+            .mobile-meta {
+                font-size: 10px !important;
+                line-height: 15px !important;
+            }
+
+            .question-card-table {
+                padding: 12px 14px !important;
+                border-radius: 14px !important;
+                -webkit-border-radius: 14px !important;
+            }
+
+            .question-icon-circle {
+                width: 34px !important;
+                height: 34px !important;
+            }
+
+            .question-icon-img {
+                width: 18px !important;
+                height: 18px !important;
+            }
+
+            .question-text {
+                font-size: 11.5px !important;
+                line-height: 16px !important;
+                padding-left: 10px !important;
+            }
+
+            .recap-col-title {
+                display: block !important;
+                width: 100% !important;
+                max-width: 100% !important;
+                box-sizing: border-box !important;
+                text-align: center !important;
+                padding-right: 0 !important;
+                padding-bottom: 18px !important;
+            }
+
+            .recap-col-badge {
+                display: block !important;
+                width: 100% !important;
+                max-width: 100% !important;
+                box-sizing: border-box !important;
+                text-align: center !important;
+            }
+
+            .recap-badge-table {
+                margin: 0 auto !important;
+                width: 100% !important;
+                max-width: 220px !important;
+            }
+
+            .save-spot-h2 {
+                font-size: 22px !important;
+                line-height: 28px !important;
+            }
+
+            .footer-td {
+                padding: 28px 20px !important;
+                height: auto !important;
+                box-sizing: border-box !important;
+            }
+
+            .footer-col-left {
+                display: block !important;
+                width: 100% !important;
+                box-sizing: border-box !important;
+                text-align: center !important;
+                padding-bottom: 24px !important;
+            }
+
+            .footer-col-left table {
+                margin: 0 auto !important;
+            }
+
+            .footer-col-left img {
+                margin: 0 auto !important;
+            }
+
+            .footer-col-right {
+                display: block !important;
+                width: 100% !important;
+                box-sizing: border-box !important;
+                text-align: center !important;
+            }
+
+            .footer-social-table {
+                margin: 0 auto !important;
+            }
+        }
+    </style>
+</head>
+
+<body
+    style="margin: 0; padding: 0; background-color: #f2f2f2; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; font-family: 'Poppins', Arial, Helvetica, sans-serif;">
+
+    <!-- PREHEADER TEXT -->
+    <span
+        style="display: none !important; visibility: hidden; mso-hide: all; font-size: 1px; color: #ffffff; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
+        How Does DPDP Compliance Apply to Real-World BFSI Workflows? Join miniOrange Live Webinar on 17th September
+        2026.
+    </span>
+    <!-- END PREHEADER TEXT -->
+
+    <!-- OUTER BACKGROUND TABLE -->
+    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" align="center"
+        style="background-color: #f2f2f2; table-layout: fixed;">
+        <tr>
+            <td align="center" class="outer-padding" style="padding: 32px 0 40px 0;">
+
+                <!-- MAIN 674PX CONTAINER TABLE -->
+                <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" align="center"
+                    class="email-container"
+                    style="width: 100%; max-width: 674px; background-color: #ffffff; border-radius: 8px; -webkit-border-radius: 8px; -moz-border-radius: 8px; overflow: hidden; border-collapse: separate; box-shadow: 0 2px 10px rgba(0,0,0,0.06);">
+
+                    <!-- HERO BANNER SECTION (Frame 2147225380: 1920x638px -> 674px scaled height: ~224px / flexible) -->
+                    <tr>
+                        <td align="left" valign="top"
+                            style="background-color: #000000; background-image: url('https://files.catbox.moe/u81m2c.png'); background-position: center top; background-repeat: no-repeat; background-size: 100% 100%; padding: 26px 32px 30px 32px; box-sizing: border-box;"
+                            class="hero-padding">
+                            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+                                <!-- TOP ROW: LOGO ALIGNED RIGHT -->
+                                <tr>
+                                    <td align="right" class="hero-logo-td" style="padding-bottom: 20px;">
+                                        <a href="https://www.miniorange.com/" target="_blank">
+                                            <img src="https://files.catbox.moe/hqssil.png" alt="miniOrange Logo"
+                                                mc:edit="logo" width="130" class="hero-logo-img"
+                                                style="width: 130px; max-width: 130px; height: auto; border: 0; display: block; margin-left: auto;" />
+                                        </a>
+                                    </td>
+                                </tr>
+
+                                <!-- HERO TITLE (font: Sora 700, 85px scaled to 26px) -->
+                                <tr>
+                                    <td align="left" style="padding-bottom: 14px;">
+                                        <h1 class="mobile-h1"
+                                            style="margin: 0; font-size: 27px; line-height: 35px; font-weight: 700; color: #FFFFFF; font-family: 'Sora', Arial, Helvetica, sans-serif; letter-spacing: -0.02em;">
+                                            How Does DPDP Compliance<br />
+                                            <span
+                                                style="font-weight: 400; color: #D6D6D6; font-size: 19px; line-height: 27px; letter-spacing: -0.01em; display: inline-block; margin-top: 4px;">Apply to Real-World BFSI Workflows?</span>
+                                        </h1>
+                                    </td>
+                                </tr>
+
+                                <!-- DATE/TIME/FORMAT SUBTITLE ROW (font: Plus Jakarta Sans 600, 32px scaled to 11.2px) -->
+                                <tr>
+                                    <td align="left" style="padding-bottom: 18px;">
+                                        <div class="mobile-meta"
+                                            style="font-family: 'Plus Jakarta Sans', Arial, sans-serif; font-size: 11.2px; font-weight: 600; color: #FFFFFF; letter-spacing: 0.01em; line-height: 17px;">
+                                            17th September 2026 &nbsp;|&nbsp; 4:00 PM IST &nbsp;|&nbsp; LIVE WEBINAR
+                                        </div>
+                                    </td>
+                                </tr>
+
+                                <!-- BANNER CTA BUTTON (CTA/Reserve Your Spot) -->
+                                <tr>
+                                    <td align="left">
+                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                                            <tr>
+                                                <td align="center"
+                                                    style="background: linear-gradient(135deg, #FF7A42 14.29%, #EE5A24 53.57%, #D44E1C 85.71%); border-radius: 500px; box-shadow: 0px 8px 18px -4px rgba(238, 90, 36, 0.5), inset 0px 0.6px 0px rgba(255, 255, 255, 0.35);">
+                                                    <a href="https://live.zoho.in/zypp-xnl-ydk" target="_blank"
+                                                        style="font-size: 11.5px; line-height: 17px; font-family: 'Poppins', Arial, sans-serif; font-weight: 600; color: #FFFFFF; text-decoration: none; padding: 7.5px 20px; border-radius: 500px; display: inline-block;">
+                                                        Reserve your spot
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- END HERO BANNER SECTION -->
+
+                    <!-- INTRO BODY SECTION (Frame 2147225391) -->
+                    <tr>
+                        <td align="left" style="padding: 32px 32px 28px 32px; background-color: #FFFFFF;"
+                            class="mobile-padding">
+                            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <!-- SALUTATION (font: Poppins SemiBold, 39px scaled to 14px, #242424) -->
+                                <tr>
+                                    <td style="padding-bottom: 12px;">
+                                        <p
+                                            style="margin: 0; font-size: 14px; line-height: 21px; font-weight: 600; color: #242424; font-family: 'Poppins', Arial, sans-serif; letter-spacing: 0.02em;">
+                                            Hi there,
+                                        </p>
+                                    </td>
+                                </tr>
+                                <!-- PARAGRAPH 1 (font: Poppins 400, 40px scaled to 14px, color: #444444) -->
+                                <tr>
+                                    <td style="padding-bottom: 14px;">
+                                        <p
+                                            style="margin: 0; font-size: 14px; line-height: 22px; color: #444444; font-family: 'Poppins', Arial, sans-serif; font-weight: 400;">
+                                            DPDP compliance becomes more complex when customer data moves across KYC
+                                            systems, digital platforms, internal applications, and third&ndash;party
+                                            providers. So, what does implementing data privacy actually look like for
+                                            financial institutions?
+                                        </p>
+                                    </td>
+                                </tr>
+                                <!-- PARAGRAPH 2 -->
+                                <tr>
+                                    <td>
+                                        <p
+                                            style="margin: 0; font-size: 14px; line-height: 22px; color: #444444; font-family: 'Poppins', Arial, sans-serif; font-weight: 400;">
+                                            Join our upcoming webinar, <strong
+                                                style="font-weight: 700; color: #242424;">DPDP for BFSI: Practical Data
+                                                Privacy Use Cases for Banks, NBFCs &amp; FinTechs</strong>, where
+                                            we&rsquo;ll take a closer look at real-world privacy scenarios across the
+                                            financial sector.
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- END INTRO BODY SECTION -->
+
+                    <!-- "WE'LL EXPLORE QUESTIONS SUCH AS:" SECTION (background: #FFFFFF) -->
+                    <tr>
+                        <td align="center" style="padding: 10px 32px 30px 32px; background-color: #FFFFFF;"
+                            class="mobile-padding">
+                            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+                                <!-- SECTION TITLE (font: Sora 600, 79.12px scaled to 27px, color: #1C1D2B) -->
+                                <tr>
+                                    <td align="center" style="padding-bottom: 24px;">
+                                        <h2
+                                            style="margin: 0; font-family: 'Sora', Arial, sans-serif; font-size: 27px; font-weight: 600; color: #1C1D2B; line-height: 35px; text-align: center; letter-spacing: -0.01em;">
+                                            We&rsquo;ll explore questions such as:
+                                        </h2>
+                                    </td>
+                                </tr>
+
+                                <!-- 5 STACKED QUESTION PILL CARDS WITH CONNECTING LINE (Line 1603) -->
+                                <tr>
+                                    <td align="center">
+                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0"
+                                            width="100%">
+
+                                            <!-- QUESTION 1: DISCOVER PERSONAL DATA -->
+                                            <tr>
+                                                <td style="padding-bottom: 12px;">
+                                                    <table role="presentation" border="0" cellpadding="0"
+                                                        cellspacing="0" width="100%" class="question-card-table"
+                                                        style="background: #FFFFFF; border: 1.15px solid #CFD1DA; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; border-collapse: separate; box-shadow: 0px 6px 16px rgba(20, 28, 48, 0.05); padding: 12px 18px;">
+                                                        <tr>
+                                                            <!-- ICON CELL -->
+                                                            <td valign="middle"
+                                                                style="width: 44px; padding-right: 14px;">
+                                                                <table role="presentation" border="0" cellpadding="0"
+                                                                    cellspacing="0" class="question-icon-circle"
+                                                                    style="background: #FFFFFF; border: 0.88px solid #FFD9C9; border-radius: 50%; -webkit-border-radius: 50%; -moz-border-radius: 50%; width: 44px; height: 44px; border-collapse: separate; box-shadow: 0px 0px 0px 6px #FFF5F0;">
+                                                                    <tr>
+                                                                        <td align="center" valign="middle"
+                                                                            style="height: 44px; text-align: center; padding: 0;">
+                                                                            <img src="https://files.catbox.moe/ed9qiz.png"
+                                                                                alt="Discover Personal Data" width="22"
+                                                                                height="22" class="question-icon-img"
+                                                                                style="display: block; margin: 0 auto; width: 22px; height: 22px; border: 0;" />
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                            <!-- TEXT CELL (font: Arial Bold, scaled from 34.58px to 13.5px, color: #1B1D2A) -->
+                                                            <td valign="middle" align="left">
+                                                                <div class="question-text"
+                                                                    style="font-family: 'Arial', 'Poppins', sans-serif; font-size: 13.5px; font-weight: 700; color: #1B1D2A; line-height: 19px; letter-spacing: -0.01em;">
+                                                                    How can organizations discover where personal data
+                                                                    resides?
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+
+                                            <!-- QUESTION 2: CONSENT AND PREFERENCES -->
+                                            <tr>
+                                                <td style="padding-bottom: 12px;">
+                                                    <table role="presentation" border="0" cellpadding="0"
+                                                        cellspacing="0" width="100%" class="question-card-table"
+                                                        style="background: #FFFFFF; border: 1.15px solid #CFD1DA; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; border-collapse: separate; box-shadow: 0px 6px 16px rgba(20, 28, 48, 0.05); padding: 12px 18px;">
+                                                        <tr>
+                                                            <!-- ICON CELL -->
+                                                            <td valign="middle"
+                                                                style="width: 44px; padding-right: 14px;">
+                                                                <table role="presentation" border="0" cellpadding="0"
+                                                                    cellspacing="0" class="question-icon-circle"
+                                                                    style="background: #FFFFFF; border: 0.88px solid #FFD9C9; border-radius: 50%; -webkit-border-radius: 50%; -moz-border-radius: 50%; width: 44px; height: 44px; border-collapse: separate; box-shadow: 0px 0px 0px 6px #FFF5F0;">
+                                                                    <tr>
+                                                                        <td align="center" valign="middle"
+                                                                            style="height: 44px; text-align: center; padding: 0;">
+                                                                            <img src="https://files.catbox.moe/n61fm4.png"
+                                                                                alt="Customer Consent" width="22"
+                                                                                height="22" class="question-icon-img"
+                                                                                style="display: block; margin: 0 auto; width: 22px; height: 22px; border: 0;" />
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                            <!-- TEXT CELL -->
+                                                            <td valign="middle" align="left">
+                                                                <div class="question-text"
+                                                                    style="font-family: 'Arial', 'Poppins', sans-serif; font-size: 13.5px; font-weight: 700; color: #1B1D2A; line-height: 19px; letter-spacing: -0.01em;">
+                                                                    How can customer consent and preferences be managed
+                                                                    effectively?
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+
+                                            <!-- QUESTION 3: ACCESS, CORRECTION OR ERASURE -->
+                                            <tr>
+                                                <td style="padding-bottom: 12px;">
+                                                    <table role="presentation" border="0" cellpadding="0"
+                                                        cellspacing="0" width="100%" class="question-card-table"
+                                                        style="background: #FFFFFF; border: 1.15px solid #CFD1DA; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; border-collapse: separate; box-shadow: 0px 6px 16px rgba(20, 28, 48, 0.05); padding: 12px 18px;">
+                                                        <tr>
+                                                            <!-- ICON CELL -->
+                                                            <td valign="middle"
+                                                                style="width: 44px; padding-right: 14px;">
+                                                                <table role="presentation" border="0" cellpadding="0"
+                                                                    cellspacing="0" class="question-icon-circle"
+                                                                    style="background: #FFFFFF; border: 0.88px solid #FFD9C9; border-radius: 50%; -webkit-border-radius: 50%; -moz-border-radius: 50%; width: 44px; height: 44px; border-collapse: separate; box-shadow: 0px 0px 0px 6px #FFF5F0;">
+                                                                    <tr>
+                                                                        <td align="center" valign="middle"
+                                                                            style="height: 44px; text-align: center; padding: 0;">
+                                                                            <img src="https://files.catbox.moe/6weqaq.png"
+                                                                                alt="Customer Access Request" width="22"
+                                                                                height="22" class="question-icon-img"
+                                                                                style="display: block; margin: 0 auto; width: 22px; height: 22px; border: 0;" />
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                            <!-- TEXT CELL -->
+                                                            <td valign="middle" align="left">
+                                                                <div class="question-text"
+                                                                    style="font-family: 'Arial', 'Poppins', sans-serif; font-size: 13.5px; font-weight: 700; color: #1B1D2A; line-height: 19px; letter-spacing: -0.01em;">
+                                                                    What happens when a customer requests access,
+                                                                    correction, or erasure of their data?
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+
+                                            <!-- QUESTION 4: THIRD-PARTY DATA SHARING -->
+                                            <tr>
+                                                <td style="padding-bottom: 12px;">
+                                                    <table role="presentation" border="0" cellpadding="0"
+                                                        cellspacing="0" width="100%" class="question-card-table"
+                                                        style="background: #FFFFFF; border: 1.15px solid #CFD1DA; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; border-collapse: separate; box-shadow: 0px 6px 16px rgba(20, 28, 48, 0.05); padding: 12px 18px;">
+                                                        <tr>
+                                                            <!-- ICON CELL -->
+                                                            <td valign="middle"
+                                                                style="width: 44px; padding-right: 14px;">
+                                                                <table role="presentation" border="0" cellpadding="0"
+                                                                    cellspacing="0" class="question-icon-circle"
+                                                                    style="background: #FFFFFF; border: 0.88px solid #FFD9C9; border-radius: 50%; -webkit-border-radius: 50%; -moz-border-radius: 50%; width: 44px; height: 44px; border-collapse: separate; box-shadow: 0px 0px 0px 6px #FFF5F0;">
+                                                                    <tr>
+                                                                        <td align="center" valign="middle"
+                                                                            style="height: 44px; text-align: center; padding: 0;">
+                                                                            <img src="https://files.catbox.moe/m0qml3.png"
+                                                                                alt="Personal Data Shared" width="22"
+                                                                                height="22" class="question-icon-img"
+                                                                                style="display: block; margin: 0 auto; width: 22px; height: 22px; border: 0;" />
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                            <!-- TEXT CELL -->
+                                                            <td valign="middle" align="left">
+                                                                <div class="question-text"
+                                                                    style="font-family: 'Arial', 'Poppins', sans-serif; font-size: 13.5px; font-weight: 700; color: #1B1D2A; line-height: 19px; letter-spacing: -0.01em;">
+                                                                    How should personal data shared with third parties
+                                                                    be managed?
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+
+                                            <!-- QUESTION 5: DATA BREACHES RESPONSE -->
+                                            <tr>
+                                                <td>
+                                                    <table role="presentation" border="0" cellpadding="0"
+                                                        cellspacing="0" width="100%" class="question-card-table"
+                                                        style="background: #FFFFFF; border: 1.15px solid #CFD1DA; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; border-collapse: separate; box-shadow: 0px 6px 16px rgba(20, 28, 48, 0.05); padding: 12px 18px;">
+                                                        <tr>
+                                                            <!-- ICON CELL -->
+                                                            <td valign="middle"
+                                                                style="width: 44px; padding-right: 14px;">
+                                                                <table role="presentation" border="0" cellpadding="0"
+                                                                    cellspacing="0" class="question-icon-circle"
+                                                                    style="background: #FFFFFF; border: 0.88px solid #FFD9C9; border-radius: 50%; -webkit-border-radius: 50%; -moz-border-radius: 50%; width: 44px; height: 44px; border-collapse: separate; box-shadow: 0px 0px 0px 6px #FFF5F0;">
+                                                                    <tr>
+                                                                        <td align="center" valign="middle"
+                                                                            style="height: 44px; text-align: center; padding: 0;">
+                                                                            <img src="https://files.catbox.moe/z5joon.png"
+                                                                                alt="Data Breaches Response" width="22"
+                                                                                height="22" class="question-icon-img"
+                                                                                style="display: block; margin: 0 auto; width: 22px; height: 22px; border: 0;" />
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                            <!-- TEXT CELL -->
+                                                            <td valign="middle" align="left">
+                                                                <div class="question-text"
+                                                                    style="font-family: 'Arial', 'Poppins', sans-serif; font-size: 13.5px; font-weight: 700; color: #1B1D2A; line-height: 19px; letter-spacing: -0.01em;">
+                                                                    How can organizations strengthen their response to
+                                                                    personal data breaches?
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+
+                                        </table>
+                                    </td>
+                                </tr>
+
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- END QUESTIONS SECTION -->
+
+                    <!-- WEBINAR RECAP & DATE CARD SECTION (Frame 2147227219 / Frame 2147225384) -->
+                    <tr>
+                        <td align="center" style="padding: 10px 32px 28px 32px; background-color: #FFFFFF;"
+                            class="mobile-padding">
+                            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%"
+                                style="background-color: #FEF8F4; border: 1.5px solid #FFD6C0; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; border-collapse: separate;">
+                                <tr>
+                                    <td style="padding: 24px 22px;">
+                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0"
+                                            width="100%">
+                                            <tr>
+                                                <!-- LEFT: WEBINAR TITLE (DPDP for BFSI: bold black, subtitle in medium grey) -->
+                                                <td valign="middle" class="recap-col-title"
+                                                    style="width: 58%; padding-right: 18px;">
+                                                    <div
+                                                        style="font-family: 'Poppins', Arial, sans-serif; font-size: 17px; font-weight: 700; color: #242424; line-height: 24px; letter-spacing: 0.01em;">
+                                                        DPDP for BFSI:
+                                                    </div>
+                                                    <div
+                                                        style="font-family: 'Poppins', Arial, sans-serif; font-size: 15px; font-weight: 500; color: #666666; line-height: 22px; margin-top: 4px; letter-spacing: 0.01em;">
+                                                        Practical Data Privacy Use Cases for Banks, NBFCs &amp; FinTechs
+                                                    </div>
+                                                </td>
+
+                                                <!-- RIGHT: BLACK GLASSMORPHIC DATE/TIME BADGE (Frame 2147225384, background: radial-gradient, border: 1px solid #E2E2E2, radius: 10px) -->
+                                                <td valign="middle" align="right" class="recap-col-badge"
+                                                    style="width: 42%;">
+                                                    <table role="presentation" border="0" cellpadding="0"
+                                                        cellspacing="0" class="recap-badge-table"
+                                                        style="background: #1C1D2B; background: radial-gradient(circle at 82% 145%, #424242 0%, #000000 80%); border: 1px solid #E2E2E2; border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; padding: 14px 14px; width: 100%; max-width: 205px; border-collapse: separate;">
+                                                        <!-- DATE ROW (Frame 2147225375) -->
+                                                        <tr>
+                                                            <td style="padding-bottom: 8px;">
+                                                                <table role="presentation" border="0" cellpadding="0"
+                                                                    cellspacing="0">
+                                                                    <tr>
+                                                                        <td valign="middle"
+                                                                            style="padding-right: 7px; line-height: 1;">
+                                                                            <img src="https://files.catbox.moe/754vaf.png"
+                                                                                alt="Calendar" width="14" height="14"
+                                                                                style="display: block; width: 14px; height: 14px; border: 0;" />
+                                                                        </td>
+                                                                        <td valign="middle"
+                                                                            style="font-family: 'Poppins', Arial, sans-serif; font-size: 10px; font-weight: 600; color: #FFFFFF; line-height: 13px; letter-spacing: 0.01em; text-transform: uppercase; white-space: nowrap;">
+                                                                            17TH SEPTEMBER 2026
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                        <!-- DIVIDER LINE (Line 1503, border: 1px solid #CBCBCB) -->
+                                                        <tr>
+                                                            <td
+                                                                style="padding-bottom: 8px; border-bottom: 1px solid rgba(203, 203, 203, 0.4); font-size: 0; line-height: 0;">
+                                                            </td>
+                                                        </tr>
+                                                        <!-- TIME ROW (Frame 2147225383) -->
+                                                        <tr>
+                                                            <td style="padding-top: 8px;">
+                                                                <table role="presentation" border="0" cellpadding="0"
+                                                                    cellspacing="0">
+                                                                    <tr>
+                                                                        <td valign="middle"
+                                                                            style="padding-right: 7px; line-height: 1;">
+                                                                            <img src="https://files.catbox.moe/j6xh9h.png"
+                                                                                alt="Clock" width="14" height="14"
+                                                                                style="display: block; width: 14px; height: 14px; border: 0;" />
+                                                                        </td>
+                                                                        <td valign="middle"
+                                                                            style="font-family: 'Poppins', Arial, sans-serif; font-size: 10px; font-weight: 600; color: #FFFFFF; line-height: 13px; letter-spacing: 0.01em; text-transform: uppercase; white-space: nowrap;">
+                                                                            4:00 PM IST
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- END WEBINAR RECAP CARD SECTION -->
+
+                    <!-- CLOSING PARAGRAPH & SIGN-OFF (Frame 2147227205 & Frame 2147227290) -->
+                    <tr>
+                        <td align="left" style="padding: 0 32px 36px 32px; background-color: #FFFFFF;"
+                            class="mobile-padding">
+                            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <td style="padding-bottom: 22px;">
+                                        <p
+                                            style="margin: 0; font-family: 'Poppins', Arial, sans-serif; font-size: 14px; line-height: 22px; color: #444444; font-weight: 400;">
+                                            If your organization is working toward DPDP readiness, this session will
+                                            help you connect regulatory requirements with practical privacy workflows.
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p
+                                            style="margin: 0; font-family: 'Poppins', Arial, sans-serif; font-size: 14px; line-height: 22px; color: #242424; font-weight: 400;">
+                                            Regards,<br />
+                                            <strong style="font-weight: 700; color: #1C1D2B;">Team miniOrange</strong>
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- END CLOSING PARAGRAPH -->
+
+                    <!-- SAVE YOUR SPOT TODAY SECTION (Frame 2147225763: Heading 3 & Button) -->
+                    <tr>
+                        <td align="center" style="padding: 0 32px 42px 32px; background-color: #FFFFFF;"
+                            class="mobile-padding">
+                            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <!-- HEADING (font: Sora 700, 68.48px scaled to 26px, color: #000000) -->
+                                <tr>
+                                    <td align="center" style="padding-bottom: 18px;">
+                                        <h2 class="save-spot-h2"
+                                            style="margin: 0; font-family: 'Sora', Arial, sans-serif; font-size: 26px; font-weight: 700; color: #000000; line-height: 34px; text-align: center; letter-spacing: -0.01em;">
+                                            Save Your Spot Today!
+                                        </h2>
+                                    </td>
+                                </tr>
+                                <!-- BUTTON (Frame 2147225334: #EB5424, radius: 10px) -->
+                                <tr>
+                                    <td align="center">
+                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                                            <tr>
+                                                <td align="center"
+                                                    style="background-color: #EB5424; border-radius: 8px; -webkit-border-radius: 8px; -moz-border-radius: 8px;">
+                                                    <a href="https://live.zoho.in/zypp-xnl-ydk" target="_blank"
+                                                        style="font-size: 14px; line-height: 20px; font-family: 'Sora', Arial, sans-serif; font-weight: 600; color: #FFFFFF; text-decoration: none; padding: 12px 28px; border-radius: 8px; display: inline-block; letter-spacing: 0.01em; white-space: nowrap;">
+                                                        <table role="presentation" border="0" cellpadding="0"
+                                                            cellspacing="0">
+                                                            <tr>
+                                                                <td valign="middle"
+                                                                    style="font-family: 'Sora', Arial, sans-serif; font-size: 14px; font-weight: 600; color: #FFFFFF; line-height: 20px; white-space: nowrap;">
+                                                                    Register Now!
+                                                                </td>
+                                                                <td valign="middle"
+                                                                    style="padding-left: 8px; line-height: 1;">
+                                                                    <img src="https://files.catbox.moe/47pp03.png"
+                                                                        alt="Arrow" width="16" height="16"
+                                                                        style="display: block; width: 16px; height: 16px; border: 0;" />
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- END SAVE YOUR SPOT TODAY SECTION -->
+
+                    <!-- FOOTER SECTION (Footer, height: 113px on 674px scale, background: #16120F) -->
+                    <tr>
+                        <td align="center" class="footer-td mobile-padding"
+                            style="background-color: #16120F; padding: 34px 40px; box-sizing: border-box;">
+                            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <!-- FOOTER LOGO & TAGLINE -->
+                                    <td valign="middle" align="left" class="footer-col-left">
+                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                                            <tr>
+                                                <td style="padding-bottom: 8px;">
+                                                    <a href="https://www.miniorange.com/" target="_blank">
+                                                        <img src="https://files.catbox.moe/hqssil.png"
+                                                            alt="miniOrange Logo" width="130"
+                                                            style="width: 130px; max-width: 130px; height: auto; border: 0; display: block;" />
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <span
+                                                        style="font-family: 'Sora', Arial, sans-serif; font-size: 9.3px; font-weight: 400; color: #FFFFFF; letter-spacing: 1.584px; text-transform: uppercase; line-height: 14px; opacity: 0.95;">
+                                                        REACH OUT TO US ANYTIME
+                                                    </span>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+
+                                    <!-- FOOTER SOCIAL ICONS (Box: 53px x 53px, Border: 1px solid rgba(255, 255, 255, 0.16), Radius: 15px, Icon: 23px) -->
+                                    <td valign="middle" align="right" class="footer-col-right">
+                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0"
+                                            class="footer-social-table" style="margin-left: auto;">
+                                            <tr>
+                                                <!-- WEBSITE ICON -->
+                                                <td
+                                                    style="padding-right: 14px; width: 53px; height: 53px; vertical-align: middle;">
+                                                    <a href="https://www.miniorange.com/" target="_blank"
+                                                        style="text-decoration: none; display: block;">
+                                                        <table role="presentation" border="0" cellpadding="0"
+                                                            cellspacing="0" width="53" height="53"
+                                                            style="width: 53px; height: 53px; border: 1px solid rgba(255, 255, 255, 0.16); border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; border-collapse: separate;">
+                                                            <tr>
+                                                                <td align="center" valign="middle"
+                                                                    style="width: 53px; height: 53px; text-align: center; vertical-align: middle; padding: 0;">
+                                                                    <img src="https://files.catbox.moe/p5osok.png"
+                                                                        alt="Website" width="23" height="23"
+                                                                        style="display: block; margin: 0 auto; width: 23px; height: 23px; border: 0;" />
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </a>
+                                                </td>
+                                                <!-- LINKEDIN ICON -->
+                                                <td
+                                                    style="padding-right: 14px; width: 53px; height: 53px; vertical-align: middle;">
+                                                    <a href="https://www.linkedin.com/company/miniorange/home/"
+                                                        target="_blank" style="text-decoration: none; display: block;">
+                                                        <table role="presentation" border="0" cellpadding="0"
+                                                            cellspacing="0" width="53" height="53"
+                                                            style="width: 53px; height: 53px; border: 1px solid rgba(255, 255, 255, 0.16); border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; border-collapse: separate;">
+                                                            <tr>
+                                                                <td align="center" valign="middle"
+                                                                    style="width: 53px; height: 53px; text-align: center; vertical-align: middle; padding: 0;">
+                                                                    <img src="https://files.catbox.moe/e62ziz.png"
+                                                                        alt="LinkedIn" width="23" height="23"
+                                                                        style="display: block; margin: 0 auto; width: 23px; height: 23px; border: 0;" />
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </a>
+                                                </td>
+                                                <!-- FACEBOOK ICON -->
+                                                <td style="width: 53px; height: 53px; vertical-align: middle;">
+                                                    <a href="https://www.facebook.com/miniorangeinc/" target="_blank"
+                                                        style="text-decoration: none; display: block;">
+                                                        <table role="presentation" border="0" cellpadding="0"
+                                                            cellspacing="0" width="53" height="53"
+                                                            style="width: 53px; height: 53px; border: 1px solid rgba(255, 255, 255, 0.16); border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; border-collapse: separate;">
+                                                            <tr>
+                                                                <td align="center" valign="middle"
+                                                                    style="width: 53px; height: 53px; text-align: center; vertical-align: middle; padding: 0;">
+                                                                    <img src="https://files.catbox.moe/z5c9fy.png"
+                                                                        alt="Facebook" width="23" height="23"
+                                                                        style="display: block; margin: 0 auto; width: 23px; height: 23px; border: 0;" />
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- END FOOTER SECTION -->
+
+                </table>
+                <!-- END MAIN 674PX CONTAINER TABLE -->
+
+            </td>
+        </tr>
+    </table>
+    <!-- END OUTER BACKGROUND TABLE -->
+
+</body>
+
+</html>
