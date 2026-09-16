@@ -1,0 +1,32 @@
+/* fi_1160041 */
+
+width: 102.06px;
+height: 102.06px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 28.49%;
+top: 20.13%;
+bottom: 20.28%;
+
+background: #EB5424;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.14%;
+right: 0%;
+top: 27.53%;
+bottom: 27.53%;
+
+background: #EB5424;
