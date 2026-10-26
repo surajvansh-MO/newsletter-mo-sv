@@ -62,15 +62,14 @@
             color: inherit;
         }
 
-        /* Mobile Responsiveness Rules (Under 650px) */
-        @media only screen and (max-width: 650px) {
+        /* Tablet & Intermediate Responsiveness (Under 680px, e.g. 635px) */
+        @media only screen and (max-width: 680px) {
             .email-container {
                 width: 100% !important;
                 max-width: 100% !important;
                 min-width: 0 !important;
                 margin: 0 !important;
                 border-radius: 0px !important;
-                table-layout: fixed !important;
             }
 
             .outer-padding {
@@ -84,45 +83,45 @@
             }
 
             .hero-padding {
-                padding-left: 18px !important;
-                padding-right: 18px !important;
-                padding-top: 22px !important;
-                padding-bottom: 28px !important;
+                padding-left: 28px !important;
+                padding-right: 28px !important;
+                padding-top: 32px !important;
+                padding-bottom: 30px !important;
             }
 
             .hero-logo-td {
-                padding-bottom: 14px !important;
+                padding-bottom: 16px !important;
                 text-align: right !important;
             }
 
             .hero-badge-td {
-                padding-bottom: 14px !important;
+                padding-bottom: 16px !important;
                 text-align: left !important;
             }
 
             .hero-logo-img {
-                width: 95px !important;
-                max-width: 95px !important;
+                width: 125px !important;
+                max-width: 125px !important;
                 margin-left: auto !important;
             }
 
             .live-webinar-pill {
-                padding: 4px 8px !important;
+                padding: 5px 10px !important;
             }
 
             .live-webinar-text {
-                font-size: 10px !important;
+                font-size: 11px !important;
             }
 
             .mobile-h1 {
-                font-size: 21px !important;
-                line-height: 27px !important;
-                letter-spacing: -0.4px !important;
+                font-size: 34px !important;
+                line-height: 42px !important;
+                letter-spacing: -0.02em !important;
             }
 
             .mobile-sub {
-                font-size: 11.5px !important;
-                line-height: 17px !important;
+                font-size: 16px !important;
+                line-height: 23px !important;
             }
 
             .date-time-bar {
@@ -138,7 +137,7 @@
             .time-box-td {
                 display: table-cell !important;
                 width: auto !important;
-                padding: 7px 10px !important;
+                padding: 8px 12px !important;
                 text-align: center !important;
             }
 
@@ -148,32 +147,114 @@
             }
 
             .time-box-sep div {
-                height: 14px !important;
+                height: 16px !important;
             }
 
             .time-box-text {
-                font-size: 9.5px !important;
+                font-size: 10px !important;
                 letter-spacing: 0.05em !important;
                 white-space: nowrap !important;
             }
 
             .content-padding {
-                padding: 24px 16px !important;
+                padding: 28px 24px 30px 24px !important;
             }
 
             .intro-text {
-                font-size: 12.5px !important;
-                line-height: 19px !important;
+                font-size: 13.5px !important;
+                line-height: 21px !important;
             }
 
             .card-table {
                 width: 100% !important;
                 max-width: 100% !important;
-                table-layout: fixed !important;
             }
 
             .card-outer-td {
-                padding-bottom: 24px !important;
+                padding-bottom: 32px !important;
+            }
+
+            .cover-card-header {
+                padding: 16px 20px !important;
+            }
+
+            .cover-card-h2 {
+                font-size: 20px !important;
+                line-height: 26px !important;
+            }
+
+            .cover-item-td {
+                padding: 14px 18px !important;
+            }
+
+            .cover-num {
+                font-size: 14.5px !important;
+                width: 28px !important;
+            }
+
+            .cover-desc {
+                font-size: 13px !important;
+                line-height: 19px !important;
+                padding-left: 10px !important;
+            }
+
+            .speaker-card-td {
+                padding: 20px 22px !important;
+            }
+
+            .qa-title {
+                font-size: 19px !important;
+                line-height: 26px !important;
+                word-break: break-word !important;
+                padding: 0 8px !important;
+            }
+
+            .footer-td {
+                padding: 28px 24px !important;
+            }
+        }
+
+        /* Mobile Phones Responsiveness (Under 500px) */
+        @media only screen and (max-width: 500px) {
+            .hero-padding {
+                padding-left: 18px !important;
+                padding-right: 18px !important;
+                padding-top: 24px !important;
+                padding-bottom: 26px !important;
+            }
+
+            .hero-logo-img {
+                width: 100px !important;
+                max-width: 100px !important;
+            }
+
+            .mobile-h1 {
+                font-size: 26px !important;
+                line-height: 33px !important;
+                letter-spacing: -0.02em !important;
+            }
+
+            .mobile-sub {
+                font-size: 14.5px !important;
+                line-height: 21px !important;
+            }
+
+            .time-box-td {
+                padding: 6px 7px !important;
+            }
+
+            .time-box-text {
+                font-size: 9px !important;
+                letter-spacing: 0.02em !important;
+            }
+
+            .content-padding {
+                padding: 24px 16px 26px 16px !important;
+            }
+
+            .intro-text {
+                font-size: 13px !important;
+                line-height: 20px !important;
             }
 
             .cover-card-header {
@@ -187,18 +268,6 @@
 
             .cover-item-td {
                 padding: 12px 14px !important;
-            }
-
-            .cover-num {
-                font-size: 14px !important;
-                width: 26px !important;
-            }
-
-            .cover-desc {
-                font-size: 12px !important;
-                line-height: 17px !important;
-                padding-left: 8px !important;
-                word-break: break-word !important;
             }
 
             .speaker-card-td {
@@ -227,7 +296,7 @@
                 width: 100% !important;
                 padding-left: 0 !important;
                 padding-top: 10px !important;
-                border-top: 1px solid rgba(255, 255, 255, 0.2) !important;
+                border-top: 1px solid rgba(255, 255, 255, 0.15) !important;
                 text-align: left !important;
                 box-sizing: border-box !important;
             }
@@ -243,21 +312,19 @@
             }
 
             .qa-title {
-                font-size: 17px !important;
-                line-height: 23px !important;
-                word-break: break-word !important;
-                padding: 0 8px !important;
+                font-size: 17.5px !important;
+                line-height: 24px !important;
             }
 
             .footer-td {
-                padding: 26px 18px !important;
+                padding: 24px 16px !important;
             }
 
             .footer-col-left {
                 display: block !important;
                 width: 100% !important;
                 text-align: center !important;
-                padding-bottom: 20px !important;
+                padding-bottom: 18px !important;
             }
 
             .footer-col-left table {
