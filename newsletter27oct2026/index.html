@@ -63,9 +63,7 @@
             color: inherit;
         }
 
-        .mobile-break {
-            display: none;
-        }
+
 
         /* Tablet & Intermediate Responsiveness (Under 680px) */
         @media only screen and (max-width: 680px) {
@@ -137,7 +135,7 @@
             }
 
             .qr-card-table {
-                padding: 22px 16px !important;
+                padding: 20px 16px !important;
             }
 
             .qr-card-row {
@@ -171,8 +169,8 @@
 
             .qr-img {
                 margin: 0 auto !important;
-                width: 105px !important;
-                height: 105px !important;
+                width: 130px !important;
+                height: 130px !important;
             }
 
             .footer-td {
@@ -206,10 +204,11 @@
             }
         }
 
-        /* Mobile specific adjustments (Under 480px) */
-        @media only screen and (max-width: 480px) {
-            .mobile-break {
-                display: inline !important;
+        /* Mobile specific adjustments (Under 540px) */
+        @media only screen and (max-width: 540px) {
+            .mobile-block {
+                display: block !important;
+                margin-top: 2px !important;
             }
 
             .hero-padding {
@@ -304,7 +303,8 @@
     <!-- PREHEADER TEXT -->
     <span
         style="display: none !important; visibility: hidden; mso-hide: all; font-size: 1px; color: #0B0B0E; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
-        Who holds your Customer Data after delivery? Join miniOrange this Thursday, 29th October 2026 at 4:00 PM IST for DPDP readiness in logistics.
+        Who holds your Customer Data after delivery? Join miniOrange this Thursday, 29th October 2026 at 4:00 PM IST for
+        DPDP readiness in logistics.
         &zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
     </span>
     <!-- END PREHEADER TEXT -->
@@ -349,18 +349,20 @@
 
                                 <!-- ROW 2: LIVE WEBINAR BADGE (CENTERED, SQUIRCLE BORDER-RADIUS) -->
                                 <tr>
-                                    <td align="center" valign="top" style="padding-bottom: 16px;">
+                                    <td align="center" valign="top" style="padding-bottom: 10px;">
                                         <table role="presentation" border="0" cellpadding="0" cellspacing="0"
-                                            style="background: linear-gradient(0deg, rgba(164, 164, 164, 0.09), rgba(164, 164, 164, 0.09)), linear-gradient(110.91deg, rgba(16, 15, 34, 0.25) 1.59%, rgba(41, 40, 56, 0.25) 107.19%); border: 1px solid rgba(255, 255, 255, 0.18); border-radius: 11px; -webkit-border-radius: 11px; -moz-border-radius: 11px; display: inline-table; box-shadow: 0 6px 16px 2px rgba(0, 0, 0, 0.25); border-collapse: separate; margin: 0 auto;">
+                                            style="background: linear-gradient(0deg, rgba(164, 164, 164, 0.09), rgba(164, 164, 164, 0.09)), linear-gradient(110.91deg, rgba(16, 15, 34, 0.25) 1.59%, rgba(41, 40, 56, 0.25) 107.19%); border: 1px solid rgba(255, 255, 255, 0.18); border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; display: inline-table; box-shadow: 0 4px 12px 1px rgba(0, 0, 0, 0.22); border-collapse: separate; margin: 0 auto;">
                                             <tr>
-                                                <td valign="middle" style="padding: 13px 6px 13px 20px; line-height: 1;">
-                                                    <img src="https://files.catbox.moe/9lh1xk.png" alt="Live" width="14"
-                                                        height="14"
-                                                        style="width: 14px; max-width: 14px; height: 14px; border: 0; display: block;" />
+                                                <td valign="middle"
+                                                    style="padding: 8px 5px 8px 16px; line-height: 1;">
+                                                    <img src="https://files.catbox.moe/9lh1xk.png" alt="Live" width="13"
+                                                        height="13"
+                                                        style="width: 13px; max-width: 13px; height: 13px; border: 0; display: block;" />
                                                 </td>
-                                                <td valign="middle" style="padding: 13px 22px 13px 6px; line-height: 1;">
+                                                <td valign="middle"
+                                                    style="padding: 8px 18px 8px 5px; line-height: 1;">
                                                     <span
-                                                        style="font-family: 'Plus Jakarta Sans', 'Poppins', Arial, sans-serif; font-size: 13.5px; line-height: 1.2; font-weight: 700; color: #FFFFFF; letter-spacing: 0.01em; white-space: nowrap;">
+                                                        style="font-family: 'Plus Jakarta Sans', 'Poppins', Arial, sans-serif; font-size: 12.5px; line-height: 1.2; font-weight: 700; color: #FFFFFF; letter-spacing: 0.01em; white-space: nowrap;">
                                                         Live Webinar
                                                     </span>
                                                 </td>
@@ -374,7 +376,8 @@
                                     <td align="center" style="padding-bottom: 20px;">
                                         <h1 class="mobile-h1"
                                             style="margin: 0; font-family: 'Sora', Arial, Helvetica, sans-serif; font-size: 35px; line-height: 45px; font-weight: 600; color: #FFFFFF; letter-spacing: -0.02em; text-align: center; word-wrap: break-word; overflow-wrap: break-word;">
-                                            Who holds your<br /><span style="color: #EB5424;">Customer Data</span> after delivery?
+                                            Who holds your<br /><span style="color: #EB5424;">Customer Data</span> <span
+                                                class="mobile-block">after delivery?</span>
                                         </h1>
                                     </td>
                                 </tr>
@@ -382,11 +385,12 @@
                                 <!-- ROW 4: HERO CTA BUTTON (CENTERED, SQUIRCLE BORDER-RADIUS) -->
                                 <tr>
                                     <td align="center">
-                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" style="margin: 0 auto;">
+                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0"
+                                            align="center" style="margin: 0 auto;">
                                             <tr>
                                                 <td align="center"
                                                     style="background: linear-gradient(135deg, #FF7A42 14.29%, #EE5A24 53.57%, #D44E1C 85.71%); border-radius: 11px; -webkit-border-radius: 11px; -moz-border-radius: 11px; box-shadow: 0px 10px 25px -4px rgba(238, 90, 36, 0.6), inset 0px 1px 0px rgba(255, 255, 255, 0.35);">
-                                                    <a href="https://live.zoho.in/nzcz-ezu-zft" target="_blank"
+                                                    <a href=" https://live.zoho.in/nzcz-ezu-zft" target="_blank"
                                                         class="hero-btn"
                                                         style="font-family: 'Poppins', Arial, sans-serif; font-size: 14px; line-height: 20px; font-weight: 600; color: #FFFFFF; text-decoration: none; padding: 11px 26px; border-radius: 11px; display: inline-block; white-space: nowrap;">
                                                         Reserve your spot
@@ -431,7 +435,8 @@
                                     <td style="padding-bottom: 16px;">
                                         <p
                                             style="margin: 0; font-family: 'Poppins', Arial, sans-serif; font-size: 13.5px; line-height: 22px; color: #444444; font-weight: 400;">
-                                            The parcel reaches its destination. What happens to the personal data afterward?
+                                            The parcel reaches its destination. What happens to the personal data
+                                            afterward?
                                         </p>
                                     </td>
                                 </tr>
@@ -441,7 +446,9 @@
                                     <td style="padding-bottom: 16px;">
                                         <p
                                             style="margin: 0; font-family: 'Poppins', Arial, sans-serif; font-size: 13.5px; line-height: 22px; color: #444444; font-weight: 400;">
-                                            Delivery photos, customer addresses, rider location records, and shared manifests can remain across systems and partner networks long after a shipment is complete.
+                                            Delivery photos, customer addresses, rider location records, and shared
+                                            manifests can remain across systems and partner networks long after a
+                                            shipment is complete.
                                         </p>
                                     </td>
                                 </tr>
@@ -451,7 +458,8 @@
                                     <td style="padding-bottom: 16px;">
                                         <p
                                             style="margin: 0; font-family: 'Poppins', Arial, sans-serif; font-size: 13.5px; line-height: 22px; color: #444444; font-weight: 400;">
-                                            This Thursday, join miniOrange to explore these logistics-specific challenges and a practical approach to DPDP readiness.
+                                            This Thursday, join miniOrange to explore these logistics-specific
+                                            challenges and a practical approach to DPDP readiness.
                                         </p>
                                     </td>
                                 </tr>
@@ -461,7 +469,8 @@
                                     <td style="padding-bottom: 6px;">
                                         <p
                                             style="margin: 0; font-family: 'Poppins', Arial, sans-serif; font-size: 13.5px; line-height: 22px; color: #444444; font-weight: 400;">
-                                            We’ll cover five operational risk areas, a 90-day action plan, and a live product demonstration.
+                                            We’ll cover five operational risk areas, a 90-day action plan, and a live
+                                            product demonstration.
                                         </p>
                                     </td>
                                 </tr>
@@ -481,13 +490,14 @@
                                 <tr class="speaker-row">
 
                                     <!-- SPEAKER DETAILS (LEFT) -->
-                                    <td valign="middle" align="left" class="speaker-col-left" style="width: 53%; padding-right: 20px;">
+                                    <td valign="middle" align="left" class="speaker-col-left"
+                                        style="width: 53%; padding-right: 20px;">
                                         <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                                             <tr>
-                                                <td valign="middle" class="speaker-avatar-td" style="width: 80px; padding-right: 16px;">
-                                                    <img src="https://files.catbox.moe/zxk05v.png"
-                                                        alt="Sheroy Rohilla" width="80" height="80"
-                                                        class="speaker-avatar-img"
+                                                <td valign="middle" class="speaker-avatar-td"
+                                                    style="width: 80px; padding-right: 16px;">
+                                                    <img src="https://files.catbox.moe/zxk05v.png" alt="Sheroy Rohilla"
+                                                        width="80" height="80" class="speaker-avatar-img"
                                                         style="width: 80px; max-width: 80px; height: 80px; border-radius: 50%; -webkit-border-radius: 50%; -moz-border-radius: 50%; display: block;" />
                                                 </td>
                                                 <td valign="middle">
@@ -513,13 +523,15 @@
                                     </td>
 
                                     <!-- VERTICAL DIVIDER (Line 1517.png) -->
-                                    <td valign="middle" align="center" class="speaker-col-divider" style="width: 2px; padding: 0 8px;">
+                                    <td valign="middle" align="center" class="speaker-col-divider"
+                                        style="width: 2px; padding: 0 8px;">
                                         <img src="https://files.catbox.moe/m1rp86.png" alt="" width="2" height="74"
                                             style="width: 2px; max-width: 2px; height: 74px; border: 0; display: block; margin: 0 auto;" />
                                     </td>
 
                                     <!-- DATE & TIME DETAILS (RIGHT) -->
-                                    <td valign="middle" align="left" class="speaker-col-right" style="width: 45%; padding-left: 20px;">
+                                    <td valign="middle" align="left" class="speaker-col-right"
+                                        style="width: 45%; padding-left: 20px;">
                                         <div class="date-title"
                                             style="font-family: 'Sora', Arial, sans-serif; font-size: 16px; font-weight: 600; color: #000000; line-height: 22px; text-transform: uppercase;">
                                             THURSDAY,
@@ -544,17 +556,19 @@
                     <!-- 4. SAVE MY SPOT + QR CODE CARD SECTION         -->
                     <!-- ============================================== -->
                     <tr>
-                        <td align="center" class="mobile-padding" style="padding: 30px 34px 24px 34px; background-color: #FFFFFF;">
+                        <td align="center" class="mobile-padding"
+                            style="padding: 30px 34px 24px 34px; background-color: #FFFFFF;">
 
                             <!-- CARD WITH CLOSE.PNG BACKGROUND -->
                             <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%"
                                 class="qr-card-table"
-                                style="background-color: #0A0A0C; background-image: url('https://files.catbox.moe/z4ezz7.png'); background-position: center center; background-repeat: no-repeat; background-size: cover; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; border-collapse: separate; padding: 26px 32px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+                                style="background-color: #0A0A0C; background-image: url('https://files.catbox.moe/z4ezz7.png'); background-position: center center; background-repeat: no-repeat; background-size: cover; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; border-collapse: separate; padding: 15px 32px 15px 32px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
                                 <tr class="qr-card-row">
 
                                     <!-- LEFT: CTA BUTTON (FULL PILL CAPSULE SHAPE MATCHING IMAGE 3) -->
                                     <td valign="middle" align="left" class="qr-col-btn" style="padding-right: 16px;">
-                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="qr-btn-wrapper" style="border-collapse: separate; margin: 0;">
+                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0"
+                                            class="qr-btn-wrapper" style="border-collapse: separate; margin: 0;">
                                             <tr>
                                                 <td align="center" valign="middle">
                                                     <!--[if mso]>
@@ -577,11 +591,12 @@
                                     </td>
 
                                     <!-- RIGHT: QR CODE -->
-                                    <td valign="middle" align="right" class="qr-col-code" style="width: 120px;">
-                                        <a href="https://live.zoho.in/nzcz-ezu-zft" target="_blank" class="qr-link" style="text-decoration: none; display: inline-block;">
-                                            <img src="https://files.catbox.moe/2jgu95.png" alt="Scan QR to Register" width="116" height="116"
-                                                class="qr-img"
-                                                style="width: 116px; max-width: 116px; height: 116px; display: block; border: 0;" />
+                                    <td valign="middle" align="right" class="qr-col-code" style="width: 136px;">
+                                        <a href="https://live.zoho.in/nzcz-ezu-zft" target="_blank" class="qr-link"
+                                            style="text-decoration: none; display: inline-block;">
+                                            <img src="https://files.catbox.moe/my343k.png" alt="Scan QR to Register"
+                                                width="134" height="134" class="qr-img"
+                                                style="width: 134px; max-width: 134px; height: 134px; display: block; border: 0;" />
                                         </a>
                                     </td>
 
@@ -596,7 +611,8 @@
                     <!-- 5. SIGN-OFF SECTION                            -->
                     <!-- ============================================== -->
                     <tr>
-                        <td align="left" class="mobile-padding" style="padding: 10px 34px 34px 34px; background-color: #FFFFFF;">
+                        <td align="left" class="mobile-padding"
+                            style="padding: 10px 34px 34px 34px; background-color: #FFFFFF;">
                             <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
                                 <tr>
                                     <td>
