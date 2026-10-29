@@ -1,0 +1,372 @@
+/* Frame 1618873214 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 80px;
+
+position: absolute;
+width: 720px;
+height: 114.1px;
+left: calc(50% - 720px/2 - 0.5px);
+top: 148px;
+
+
+
+/* Frame 1618873211 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 14px;
+
+width: 192px;
+height: 114.1px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873189 */
+
+width: 74.1px;
+height: 74.1px;
+
+/* Primary/orange-500 */
+border: 1.34734px solid #EB5424;
+border-radius: 561.39px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* linkedin (1) 1 */
+
+position: absolute;
+width: 44.91px;
+height: 44.91px;
+left: 14.6px;
+top: 14.6px;
+
+
+
+/* _x31_0.Linkedin */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 10%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 38.3%;
+right: 10%;
+top: 35.3%;
+bottom: 10%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.3%;
+right: 72.1%;
+top: 36.6%;
+bottom: 10%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10%;
+right: 70.8%;
+top: 10%;
+bottom: 70.7%;
+
+background: #FFFFFF;
+
+
+/* Follow Us on LinkedIn */
+
+width: 192px;
+height: 26px;
+
+font-family: 'General Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 130%;
+/* identical to box height, or 26px */
+display: flex;
+align-items: center;
+
+/* Netural/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873212 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 14px;
+
+width: 161px;
+height: 114.1px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873189 */
+
+width: 74.1px;
+height: 74.1px;
+
+/* Primary/orange-500 */
+border: 1.34734px solid #EB5424;
+border-radius: 561.39px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* review (1) 1 */
+
+position: absolute;
+width: 47.16px;
+height: 47.16px;
+left: 13.47px;
+top: 13.47px;
+
+
+
+/* Review */
+
+position: absolute;
+left: 3.44%;
+right: 3.44%;
+top: 4.09%;
+bottom: 3.95%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 26.03%;
+right: 37.41%;
+top: 41.2%;
+bottom: 53.17%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.02%;
+right: 51.95%;
+top: 55.4%;
+bottom: 38.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 3.44%;
+right: 16.07%;
+top: 19.17%;
+bottom: 3.95%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.14%;
+right: 3.44%;
+top: 4.09%;
+bottom: 59.99%;
+
+background: #FFFFFF;
+
+
+/* Give Us Feedback */
+
+width: 161px;
+height: 26px;
+
+font-family: 'General Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 130%;
+/* identical to box height, or 26px */
+display: flex;
+align-items: center;
+
+/* Netural/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873213 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 14px;
+
+width: 207px;
+height: 114.1px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 1618873189 */
+
+width: 74.1px;
+height: 74.1px;
+
+/* Primary/orange-500 */
+border: 1.34734px solid #EB5424;
+border-radius: 561.39px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* bell 1 */
+
+position: absolute;
+width: 42.67px;
+height: 42.67px;
+left: 15.72px;
+top: 15.72px;
+
+
+
+/* Clip path group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* clip_1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* artboard_1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* subscribe */
+
+position: absolute;
+left: 9.37%;
+right: 3.13%;
+top: 3.12%;
+bottom: 3.13%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.37%;
+right: 3.13%;
+top: 3.12%;
+bottom: 3.13%;
+
+background: #FFFFFF;
+
+
+/* Subscribe - Newsletter */
+
+width: 207px;
+height: 26px;
+
+font-family: 'General Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 130%;
+/* identical to box height, or 26px */
+display: flex;
+align-items: center;
+
+/* Netural/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;

@@ -1,0 +1,183 @@
+/* Background */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 25.63px;
+
+width: 1920px;
+height: 690px;
+min-height: 148.63px;
+
+background: radial-gradient(93.33% 93.33% at -16.48% 6%, rgba(235, 84, 36, 0.8) 0%, rgba(235, 84, 36, 0) 46%), radial-gradient(171.72% 171.72% at 109.69% 105.09%, rgba(235, 84, 36, 0.8) 0%, rgba(235, 84, 36, 0) 52%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 2147225322 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+margin: 0 auto;
+width: 1916px;
+height: 690px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618872470 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 71.5602px;
+gap: 10.22px;
+isolation: isolate;
+
+width: 1720px;
+height: 557px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 1261165361 */
+
+position: absolute;
+width: 1720px;
+height: 557px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 3470040 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1720px;
+height: 557px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border: 1.53343px solid #E4E4F1;
+box-shadow: 0px 21.0733px 179.767px 24.5569px rgba(156, 153, 204, 0.2);
+border-radius: 46.6956px;
+
+
+/* Frame 2147225352 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 13px;
+
+width: 1503px;
+height: 346px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Why miniOrange? */
+
+width: 735px;
+height: 120px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 80px;
+line-height: 150%;
+/* identical to box height, or 120px */
+display: flex;
+align-items: center;
+
+color: #EB5424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* With a strong regional presence and hands-on experience supporting SAMA and Aramco-related compliance, miniOrange replaces fragmented security controls with one unified identity security platform. */
+
+width: 1377px;
+height: 150px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 33px;
+line-height: 150%;
+/* or 50px */
+display: flex;
+align-items: center;
+
+color: #727272;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* One platform. Total visibility. Stronger control. Audit-ready evidence. */
+
+width: 1503px;
+height: 50px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 33px;
+line-height: 150%;
+/* identical to box height, or 50px */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
